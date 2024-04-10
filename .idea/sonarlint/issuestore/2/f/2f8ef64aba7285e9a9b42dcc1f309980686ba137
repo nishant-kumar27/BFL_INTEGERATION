@@ -1,0 +1,29 @@
+
+k
+java:S1192†"TDefine a constant instead of duplicating this literal "yyyy-MM-dd HH:mm:ss" 3 times.(ä›É
+P
+java:S1141E"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+{
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "trndate".(¼ªŠ½øÿÿÿÿ
+X
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813*"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813-"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S68130"BRemove this field injection and use constructor injection instead.(êæÄÞ
+T
+java:S3416"">Update this logger to use "ProcessBflEWalletLogDataJob.class".(à¸ŽÕ
+]
+java:S6830"GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾”º÷
+h
+java:S37766"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(“–ýþ
+Y
+java:S1155<">Use isEmpty() to check whether the collection is empty or not.(ì¥¼™úÿÿÿÿ
+\
+java:S3457H"AFormat specifiers should be used instead of string concatenation.(ÜÑ…Éûÿÿÿÿ
+W
+java:S3457z"AFormat specifiers should be used instead of string concatenation.( öÐ”

@@ -1,0 +1,10 @@
+
+f	java:S117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õâ¯4
+c	java:S116"NRename this field "UPC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û³ÀÊ
+h	java:S116"NRename this field "RRP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µû‚şÿÿÿÿ
+e	java:S116K"PRename this field "Color" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÜÊ·
+p	java:S116_"VRename this field "group_brand" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ‚ıÃÿÿÿÿÿ
+k	java:S116m"VRename this field "SUBCATEGORY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë ¥İ
+k	java:S116o"QRename this field "AEDRRP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Áäşÿÿÿÿ
+i	java:S100Ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ú­úÿÿÿÿ
+c	java:S100İ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õâ¯4

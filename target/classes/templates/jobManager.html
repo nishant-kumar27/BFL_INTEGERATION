@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity3">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<link rel="stylesheet" type="text/css"
+	th:href="@{/webjars/bootstrap/3.3.7/css/bootstrap.min.css}" />
+
+<title>Job Manager</title>
+</head>
+<body>
+	<div th:replace="header :: header"> </div>
+	
+	
+	<div class="container thumbnail">
+		<div class="row">
+			<div class="col-md-6 col-md-offset-3">
+				<h1>Job Search</h1>
+				<form th:action="@{/jobs/processJobSearch}" th:object="${jobSearchQuery}" method="post">
+					<div th:if="${message}">
+						<div class="alert alert-info"><span th:text="${message}"></span></div>
+					</div>
+					<div class="form-group"
+						th:classappend="${#fields.hasErrors('jobId')}? 'has-error':''">
+						<label for="jobId" >Job Id</label> <input type="number"
+							id="orderNumber" class="form-control" th:field="*{jobId}"  placeholder="Enter Job Id"/>
+						<p class="error-message"
+							th:each="error: ${#fields.errors('jobId')}"
+							th:text="${error}">Validation error</p>
+					</div>
+					<div class="form-group"
+						th:classappend="${#fields.hasErrors('jobName')}? 'has-error':''">
+						<label for="jobName" class="control-label">Job Name</label> <input type="text"
+							id="jobName" class="form-control" th:field="*{jobName}"  placeholder="Enter Job Name"/>
+						<p class="error-message"
+							th:each="error: ${#fields.errors('jobName')}"
+							th:text="${error}">Validation error</p>
+					</div>
+					<div class="form-group"
+						th:classappend="${#fields.hasErrors('includeInactiveJobs')}? 'has-error':''">
+						<label for="includeInactiveJobs" class="control-label">Include Inactive Jobs</label> <input type="checkbox"
+							id="includeInactiveJobs" name="includeInactiveJobs"/>
+					</div>
+					<div class="form-group">
+						<div class="row">
+							<div class="col-sm-6 col-sm-offset-3">
+								<input type="submit" name="login-submit" id="login-submit"
+									class="form-control btn btn-primary" value="Search" />
+							</div>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+				<div th:if="${jobs}" class="pre-scrollable">
+  					<table class="table table-bordered table-striped mb-0">
+ 						<thead>
+ 							<tr>
+            				<th>Job ID</th>
+                			<th>Job Name</th>
+               				<th>Cron</th>
+               				<th>Cron Description</th>
+                			<th>Status</th>
+                			<!-- <th>Action</th> -->
+            			</tr>
+            			</thead>
+            			<tbody>
+            			<tr th:each="job, iStat : ${jobs}" th:style="${iStat.odd}? 'font-weight: normal;'">
+                    			<td><a th:href="@{'/jobs/jobDetail?jobId='+ ${job.jobId}}"><span th:text="${job.jobId}"></span></a></td>
+                    			<td th:text="${job.jobName}" />
+                    			<td th:text="${job.cronExpression}" />
+                    			<td th:text="${job.cronDescription}" />
+                    			<td>
+                    				<span th:if="${job.enabled}">ENABLED</span>
+    								<span th:unless="${job.enabled}">DISABLED</span>
+    							</td>
+                    			<td>
+                    				<!-- <button type="button" class="btn btn-primary" th:data-yourid="${job.jobId}" data-toggle="modal" data-target="#statisticsModel">Statistics</button> -->
+                    				<button th:if="${job.enabled}" sec:authorize="hasAnyAuthority('ADMIN')" type="button" th:disabled="${!job.adhocRun}" class="btn btn-primary" th:onclick="|window.location.href='@{/jobs/runJobAdhoc?jobId=}${job.jobId}'|">Run Now</button>
+                    				<!-- <th:block th:replace="popupWindow :: modal('statisticsModel')">modal</th:block> -->
+                    			</td>
+            			</tr>
+    				</tbody>
+  				</table>
+			</div>
+	</div>
+	
+
+	<script type="text/javascript"
+		th:src="@{/webjars/jquery/3.2.1/jquery.min.js/}"></script>
+	<script th:src="@{/webjars/popper.js/2.9.3/umd/popper.min.js}"></script>
+	<script type="text/javascript"
+		th:src="@{/webjars/bootstrap/3.3.7/js/bootstrap.min.js}"></script>
+		
+<script>
+    $('#statisticsModel').on('show.bs.modal', function (e) {
+    	var id= $(e.relatedTarget).data('yourid');
+        $.get("/jobs/statistics?jobId="+id, function (data) {
+            $('#statisticsModel').find('.modal-body').html(data);
+        })
+    });
+
+</script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity3">
+
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<link rel="stylesheet" type="text/css"
+	th:href="@{/webjars/bootstrap/3.3.7/css/bootstrap.min.css}" />
+<script type="text/javascript"
+		th:src="@{/webjars/jquery/3.2.1/jquery.min.js/}"></script>
+<script type="text/javascript"
+		th:src="@{/webjars/bootstrap/3.3.7/js/bootstrap.min.js}"></script>
+<link rel="stylesheet" type="text/css" th:href="@{/css/app.css}" />
+<title>Home</title>
+</head>
+<body>
+
+	<div th:replace="header :: header"> </div>
+	<div class="container thumbnail">
+	<div class="row" align="center">
+        <div class="col-lg-50">
+          <p>
+            <a sec:authorize="hasAnyAuthority('ADMIN','USER')" href="/" th:href="@{/jobManager}" class="btn btn-info btn-square-xl">
+            	<br/><br/>
+              <b>Job Manager</b>
+            </a>
+            <a sec:authorize="hasAnyAuthority('ADMIN')" href="/" th:href="@{/registration}" class="btn btn-warning btn-square-xl">
+            	<br/><br/>
+              <b>Add User</b>
+            </a>
+          </p>
+        </div>
+        </div>
+        </div>
+</body>
+</html>
+	

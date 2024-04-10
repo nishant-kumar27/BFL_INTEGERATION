@@ -1,0 +1,43 @@
+
+w
+java:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(­ıÍó8Õş“€å1
+w
+java:S2293¡"YReplace the type specification in this constructor call with the diamond operator ("<>").(­ıÍó8Öş“€å1
+?
+java:S1643"Use a StringBuilder instead.(£İ³”ÿÿÿÿÿ8Øş“€å1
+?
+java:S1643–"Use a StringBuilder instead.(£İ³”ÿÿÿÿÿ8Øş“€å1
+e
+java:S2259¬"BA "NullPointerException" could be thrown; "list" is nullable here.(Ó“ÛØúÿÿÿÿ8±†”€å1
+_
+java:S2259—"BA "NullPointerException" could be thrown; "list" is nullable here.(Àôî-8¶†”€å1
+r
+java:S2259œ"OA "NullPointerException" could be thrown; "purchaseOrdersDTO" is nullable here.(ß—Í¶şÿÿÿÿ8»†”€å1
+_
+java:S6813*"BRemove this field injection and use constructor injection instead.(êæÄŞ8¿†”€å1
+_
+java:S6813-"BRemove this field injection and use constructor injection instead.(êæÄŞ8Á†”€å1
+_
+java:S68130"BRemove this field injection and use constructor injection instead.(êæÄŞ8Â†”€å1
+_
+java:S68133"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ã†”€å1
+d
+java:S6830%"GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø°´8Ê†”€å1
+o
+java:S37767"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(“–ış8Ø†”€å1
+]	java:S125G"<This block of commented-out lines of code should be removed.(ÁáÅÿÿÿÿÿ8¡‡”€å1
+`
+java:S1155T">Use isEmpty() to check whether the collection is empty or not.(Ö¦“¹üÿÿÿÿ8«‡”€å1
+[
+java:S1155Y">Use isEmpty() to check whether the collection is empty or not.(ï‡’µ8°‡”€å1
+[
+java:S1155[">Use isEmpty() to check whether the collection is empty or not.(Û½ğØ8³‡”€å1
+]	java:S125a"<This block of commented-out lines of code should be removed.(àâÉõşÿÿÿÿ8¶‡”€å1
+]
+java:S3457l"AFormat specifiers should be used instead of string concatenation.(í¬Y8»‡”€å1
+O
+java:S1172r"-Remove this unused method parameter "mapper".(Ú‰Â³ıÿÿÿÿ8¿‡”€å1
+Y
+java:S1854‡";Remove this useless assignment to local variable "country".(ìİÒ8Å‡”€å1
+a
+java:S1155¬">Use isEmpty() to check whether the collection is empty or not.(Ó“ÛØúÿÿÿÿ8ï‡”€å1

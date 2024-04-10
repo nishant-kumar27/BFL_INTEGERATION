@@ -1,0 +1,38 @@
+
+t
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(·óÔÀÿÿÿÿÿ
+M
+java:S2629["7Use the built-in formatting to construct this argument.(»ºÀ
+X
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813,"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813/"BRemove this field injection and use constructor injection instead.(êæÄŞ
+b
+java:S6830"GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¼üßıÿÿÿÿ
+h
+java:S37763"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(“–ış
+]
+java:S1854="BRemove this useless assignment to local variable "itemMasterData".(·óÔÀÿÿÿÿÿ
+Q	java:S1259"<This block of commented-out lines of code should be removed.(ä´µ¸
+V	java:S125;"<This block of commented-out lines of code should be removed.(ÓÒÔÉûÿÿÿÿ
+S
+java:S1155E">Use isEmpty() to check whether the collection is empty or not.(Çíòp
+Q	java:S125G"<This block of commented-out lines of code should be removed.(ÎŠ“à
+T
+java:S1155P">Use isEmpty() to check whether the collection is empty or not.(ñ§†Š
+S
+java:S1155Y">Use isEmpty() to check whether the collection is empty or not.(ó´£$
+W
+java:S3457["AFormat specifiers should be used instead of string concatenation.(»ºÀ
+Y
+java:S1155]">Use isEmpty() to check whether the collection is empty or not.(œ–º€úÿÿÿÿ
+Y
+java:S1155_">Use isEmpty() to check whether the collection is empty or not.(ûìÌÊøÿÿÿÿ
+\
+java:S3457o"AFormat specifiers should be used instead of string concatenation.( íåÔşÿÿÿÿ

@@ -1,0 +1,87 @@
+
+[	java:S112r"FDefine and throw a dedicated exception instead of using a generic one.(ò÷²¿
+a	java:S112š"FDefine and throw a dedicated exception instead of using a generic one.(Î¿½¹üÿÿÿÿ
+a	java:S112Â"FDefine and throw a dedicated exception instead of using a generic one.(ÖÑ½‰ÿÿÿÿÿ
+t
+java:S2293W"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ½¬ğùÿÿÿÿ
+o
+java:S2293v"YReplace the type specification in this constructor call with the diamond operator ("<>").(£ù•
+f
+java:S1192O"KDefine a constant instead of duplicating this literal "Email sent" 4 times.(’Æşÿÿÿÿ
+l
+java:S1192<"QDefine a constant instead of duplicating this literal "Sending email..." 4 times.(’Áêğÿÿÿÿÿ
+k
+java:S1192M"UDefine a constant instead of duplicating this literal "spring.mail.username" 3 times.(ÎºÚş
+z
+java:S1192Q"_Define a constant instead of duplicating this literal "Mail could not be sent. Error " 5 times.(µúü§ıÿÿÿÿ
+e
+java:S1192ë"IDefine a constant instead of duplicating this literal "user.dir" 3 times.(àêáĞıÿÿÿÿ
+l	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÖÉæıÿÿÿÿ
+l	java:S117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş»çİşÿÿÿÿ
+X
+java:S68131"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68134"BRemove this field injection and use constructor injection instead.(êæÄŞ
+Q	java:S1258"<This block of commented-out lines of code should be removed.(Ì·á
+\
+java:S3457Q"AFormat specifiers should be used instead of string concatenation.(µúü§ıÿÿÿÿ
+\
+java:S3457b"AFormat specifiers should be used instead of string concatenation.(µúü§ıÿÿÿÿ
+U
+java:S1172n":Remove this unused method parameter "orderAttachmentData".(Û¿Ÿ‡şÿÿÿÿ
+V	java:S125|"<This block of commented-out lines of code should be removed.(¦ñ¢£øÿÿÿÿ
+o
+java:S2139”"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾
+]
+java:S3457•"AFormat specifiers should be used instead of string concatenation.(µúü§ıÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(™†æÛ
+o
+java:S2139¼"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾
+]
+java:S3457½"AFormat specifiers should be used instead of string concatenation.(µúü§ıÿÿÿÿ
+U
+java:S1155É">Use isEmpty() to check whether the collection is empty or not.(‘¨°´
+R	java:S125Í"<This block of commented-out lines of code should be removed.(“÷›Õ
+R	java:S125Ğ"<This block of commented-out lines of code should be removed.(÷÷ƒÄ
+o
+java:S2139â"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾
+]
+java:S3457ã"AFormat specifiers should be used instead of string concatenation.(µúü§ıÿÿÿÿ
+N
+java:S1854Ä"8Remove this useless assignment to local variable "font".(™ŒÕQ
+•
+java:S1130ö"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(Ş»çİşÿÿÿÿ
+I
+java:S1172ö"-Remove this unused method parameter "writer".(Ş»çİşÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(¶Ê¹¹ùÿÿÿÿ
+R	java:S125´"<This block of commented-out lines of code should be removed.(ÃĞ€Õ
+R	java:S125À"<This block of commented-out lines of code should be removed.(ÃĞ€Õ
+R	java:S125Ö"<This block of commented-out lines of code should be removed.(ÃĞ€Õ
+R	java:S125â"<This block of commented-out lines of code should be removed.(ÃĞ€Õ
+R	java:S125î"<This block of commented-out lines of code should be removed.(ÃĞ€Õ
+R	java:S125ú"<This block of commented-out lines of code should be removed.(ÃĞ€Õ
+R	java:S125†"<This block of commented-out lines of code should be removed.(ÃĞ€Õ
+R	java:S125’"<This block of commented-out lines of code should be removed.(ÃĞ€Õ
+R	java:S125"<This block of commented-out lines of code should be removed.(ÃĞ€Õ
+R	java:S125«"<This block of commented-out lines of code should be removed.(ÃĞ€Õ
+R	java:S125¸"<This block of commented-out lines of code should be removed.(ÃĞ€Õ
+R	java:S125Å"<This block of commented-out lines of code should be removed.(ÃĞ€Õ
+R	java:S125Ñ"<This block of commented-out lines of code should be removed.(ÃĞ€Õ
+R	java:S125İ"<This block of commented-out lines of code should be removed.(ÃĞ€Õ
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(øÚİúÿÿÿÿ
+Z
+java:S1155»">Use isEmpty() to check whether the collection is empty or not.(õùå–ıÿÿÿÿ
+W	java:S125÷"<This block of commented-out lines of code should be removed.(¶Ê¹¹ùÿÿÿÿ
+R	java:S125†"<This block of commented-out lines of code should be removed.(™ãË±
+R	java:S125"<This block of commented-out lines of code should be removed.(›ıöÌ
+W	java:S125¤"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+7
+java:S2129ª" Remove this "String" constructor(Ëêó
+7
+java:S2129ä" Remove this "String" constructor(ĞŸ¨Õ
+7
+java:S2129¿" Remove this "String" constructor(Ï‹Ÿ
+W	java:S125‚"<This block of commented-out lines of code should be removed.(ŠÅşÂşÿÿÿÿ
+R	java:S125ˆ"<This block of commented-out lines of code should be removed.(ç£õÚ
+W	java:S125«"<This block of commented-out lines of code should be removed.(¾ôÁşÿÿÿÿ
+W	java:S125´"<This block of commented-out lines of code should be removed.(ßèÛ‘ùÿÿÿÿ

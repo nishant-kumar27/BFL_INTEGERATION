@@ -1,0 +1,76 @@
+
+n
+java:S2293f"YReplace the type specification in this constructor call with the diamond operator ("<>").(ı©’(
+u
+java:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(–©‘íüÿÿÿÿ
+u
+java:S2293Ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÓƒîÄùÿÿÿÿ
+d
+java:S1192ç"HDefine a constant instead of duplicating this literal "BAHRAIN" 3 times.(²£¬øÿÿÿÿ
+^
+java:S1192Õ"GDefine a constant instead of duplicating this literal "KUWAIT" 3 times.(ğÄôÓ
+f
+java:S1192Ô"JDefine a constant instead of duplicating this literal "BFLKUWAIT" 3 times.(È«Èıÿÿÿÿ
+^
+java:S1192È"GDefine a constant instead of duplicating this literal "HODATA" 3 times.(ÂÓÖ—
+e
+java:S1192à"IDefine a constant instead of duplicating this literal "BFLQATAR" 3 times.(®ãƒ÷şÿÿÿÿ
+c
+java:S1192Î"GDefine a constant instead of duplicating this literal "BFLKSA" 4 times.(ìÌ€Šÿÿÿÿÿ
+g
+java:S1192æ"KDefine a constant instead of duplicating this literal "BFLBAHRAIN" 3 times.(Ìøıâÿÿÿÿÿ
+]
+java:S1192á"FDefine a constant instead of duplicating this literal "QATAR" 3 times.(„õ¡‡
+l	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚–úÿÿÿÿ
+s
+java:S2629¾"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Û»‚°
+X
+java:S6813+"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813."BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68131"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68134"BRemove this field injection and use constructor injection instead.(êæÄŞ
+b
+java:S6830&"GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¤™ıÿÿÿÿ
+h
+java:S3776:"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(“–ış
+T
+java:S1854f"?Remove this useless assignment to local variable "pricingData".(ı©’(
+V	java:S1257"<This block of commented-out lines of code should be removed.(İÉÁÉüÿÿÿÿ
+V	java:S125O"<This block of commented-out lines of code should be removed.(ï§óğûÿÿÿÿ
+Q	java:S125R"<This block of commented-out lines of code should be removed.(Ö†÷
+Y
+java:S1155X">Use isEmpty() to check whether the collection is empty or not.(¨¦çÉùÿÿÿÿ
+Y
+java:S1155^">Use isEmpty() to check whether the collection is empty or not.(³Ÿ¾şÿÿÿÿ
+Q	java:S125c"<This block of commented-out lines of code should be removed.(“õË
+V	java:S125k"<This block of commented-out lines of code should be removed.(â‹Ó†ùÿÿÿÿ
+W
+java:S3457|"AFormat specifiers should be used instead of string concatenation.(‘äÜ 
+d
+java:S3986ƒ"HMake sure that week Year "YYYY" is expected here instead of Year "yyyy".(Á¨åêúÿÿÿÿ
+Z
+java:S1155†">Use isEmpty() to check whether the collection is empty or not.(êîÑ¿ÿÿÿÿÿ
+C
+java:S1172£"-Remove this unused method parameter "mapper".(ÄÀ©L
+W	java:S125³"<This block of commented-out lines of code should be removed.(Øƒ—ûÿÿÿÿ
+c
+java:S1871¸"MThis branch's code block is the same as the block for the branch on line 181.(„úÏ]
+X
+java:S3457¾"AFormat specifiers should be used instead of string concatenation.(Û»‚°
+G
+java:S1172Â"+Remove this unused method parameter "item".(¨¬Şúÿÿÿÿ
+h
+java:S3776î"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ıÉÏI
+_
+java:S3986Å"HMake sure that week Year "YYYY" is expected here instead of Year "yyyy".(î£’û
+W	java:S125Ç"<This block of commented-out lines of code should be removed.(¨”·òüÿÿÿÿ
+]
+java:S3457Ë"AFormat specifiers should be used instead of string concatenation.(Ğ®¬¨ıÿÿÿÿ
+R	java:S125Í"<This block of commented-out lines of code should be removed.(ª´Š£
+d
+java:S3986å"HMake sure that week Year "YYYY" is expected here instead of Year "yyyy".(ìÎˆ—ûÿÿÿÿ
+Û
+java:S6541î"ÄA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 74 to 64, Complexity from 26 to 14, Nesting Level from 4 to 2, Number of Variables from 7 to 6.(ıÉÏI

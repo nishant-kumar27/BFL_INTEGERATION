@@ -1,0 +1,29 @@
+
+P
+java:S1141D"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+u
+java:S1488s"_Immediately return this expression instead of assigning it to the temporary variable "trndate".(ëóä
+f
+java:S2259M"KA "NullPointerException" could be thrown; "sendSalesData" is nullable here.(‹ì¯žúÿÿÿÿ
+X
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813,"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813/"BRemove this field injection and use constructor injection instead.(êæÄÞ
+h
+java:S37763"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(“–ýþ
+T
+java:S1155;">Use isEmpty() to check whether the collection is empty or not.(ÞæëÏ
+Y
+java:S1155M">Use isEmpty() to check whether the collection is empty or not.(‹ì¯žúÿÿÿÿ
+W
+java:S3457T"AFormat specifiers should be used instead of string concatenation.(ôð˜Ø
+\
+java:S3457Y"AFormat specifiers should be used instead of string concatenation.( íåÔþÿÿÿÿ

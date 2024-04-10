@@ -1,0 +1,71 @@
+
+c
+java:S1192j"HDefine a constant instead of duplicating this literal "SUCCESS" 3 times.(˜á—ÿÿÿÿÿ
+h
+java:S1192O"RDefine a constant instead of duplicating this literal "STAGE_INTEGRATION" 3 times.(«‚„š
+_
+java:S1192a"IDefine a constant instead of duplicating this literal "STORE_ID" 3 times.(²ÿü†
+c
+java:S1192N"MDefine a constant instead of duplicating this literal "GO_LIVE_DATE" 3 times.(Å„öØ
+P
+java:S1141d"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141Ë"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+v
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "trndate".(ëóä
+X
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813*"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813-"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68130"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68133"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68136"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68139"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813<"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813?"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813B"BRemove this field injection and use constructor injection instead.(êæÄŞ
+]
+java:S6830""GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ì«¿
+i
+java:S3776F"SRefactor this method to reduce its Cognitive Complexity from 104 to the 15 allowed.(“–ış
+V
+java:S1854n"ARemove this useless assignment to local variable "sendSalesData".(çû‚q
+W
+java:S1854¥"ARemove this useless assignment to local variable "sendSalesData".(çû‚q
+]
+java:S1854Û"ARemove this useless assignment to local variable "sendSalesData".(ğ‹Çİÿÿÿÿÿ
+T
+java:S1155S">Use isEmpty() to check whether the collection is empty or not.(ŞæëÏ
+T
+java:S1155p">Use isEmpty() to check whether the collection is empty or not.(ù»¢
+W
+java:S3457z"AFormat specifiers should be used instead of string concatenation.(Š¿„Ä
+\
+java:S3457"AFormat specifiers should be used instead of string concatenation.( íåÔşÿÿÿÿ
+Z
+java:S1155‹">Use isEmpty() to check whether the collection is empty or not.(÷ÀÂµùÿÿÿÿ
+U
+java:S1155§">Use isEmpty() to check whether the collection is empty or not.(ù»¢
+X
+java:S3457°"AFormat specifiers should be used instead of string concatenation.(ËÛ‚
+U
+java:S1155º">Use isEmpty() to check whether the collection is empty or not.(ŞæëÏ
+U
+java:S1155Ï">Use isEmpty() to check whether the collection is empty or not.(µĞ©
+U
+java:S1155İ">Use isEmpty() to check whether the collection is empty or not.(ù»¢
+X
+java:S3457ã"AFormat specifiers should be used instead of string concatenation.(˜„Æ˜
+]
+java:S3457è"AFormat specifiers should be used instead of string concatenation.( íåÔşÿÿÿÿ
+İ
+java:S6541F"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 156 to 64, Complexity from 57 to 14, Nesting Level from 8 to 2, Number of Variables from 46 to 6.(“–ış

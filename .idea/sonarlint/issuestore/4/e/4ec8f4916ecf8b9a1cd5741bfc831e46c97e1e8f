@@ -1,0 +1,110 @@
+
+w
+java:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(–ùäœ8ÜÇ¨½á1
+
+java:S1192¯"mDefine a constant instead of duplicating this literal "Reading records from BFL_RTLOG_CONFIG table." 3 times.(¥…Œæıÿÿÿÿ8ÜÇ¨½á1
+‚
+java:S1192Ì"dDefine a constant instead of duplicating this literal "Get Records from: BFL_RTLOG_CONFIG " 3 times.(²ú¨û8ÜÇ¨½á1
+™
+java:S1192M"wDefine a constant instead of duplicating this literal "Error occured while getting the Tran Flag DB details " 10 times.(å´ã¹şÿÿÿÿ8ÜÇ¨½á1
+p
+java:S1192,"NDefine a constant instead of duplicating this literal "TRAN_FLAG_DB" 11 times.(Œ×úıúÿÿÿÿ8ÜÇ¨½á1
+r	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¶Ûåıÿÿÿÿ8İÇ¨½á1
+r	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ×úıúÿÿÿÿ8İÇ¨½á1
+m	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…8İÇ¨½á1
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…8İÇ¨½á1
+n	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…8İÇ¨½á1
+n	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…8İÇ¨½á1
+n	java:S117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…8İÇ¨½á1
+n	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…8İÇ¨½á1
+s	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èİü”øÿÿÿÿ8İÇ¨½á1
+n	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…8İÇ¨½á1
+n	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…8İÇ¨½á1
+n	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…8İÇ¨½á1
+n	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…8İÇ¨½á1
+
+java:S1488P"_Immediately return this expression instead of assigning it to the temporary variable "records".(†ı„üÿÿÿÿ8İÇ¨½á1
+
+java:S1488["_Immediately return this expression instead of assigning it to the temporary variable "records".(ü†‹”ùÿÿÿÿ8İÇ¨½á1
+
+java:S1488d"_Immediately return this expression instead of assigning it to the temporary variable "records".(ºÓÀîùÿÿÿÿ8İÇ¨½á1
+
+java:S1488k"_Immediately return this expression instead of assigning it to the temporary variable "records".(Îê†œøÿÿÿÿ8İÇ¨½á1
+
+java:S1488q"_Immediately return this expression instead of assigning it to the temporary variable "records".(Îê†œøÿÿÿÿ8İÇ¨½á1
+|
+java:S1488y"_Immediately return this expression instead of assigning it to the temporary variable "records".(íÓÏş8İÇ¨½á1
+ƒ
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "transSeq".(ºÃ·ñùÿÿÿÿ8İÇ¨½á1
+
+java:S1488²"^Immediately return this expression instead of assigning it to the temporary variable "vatDTO".(Ú¨ƒÔıÿÿÿÿ8ŞÇ¨½á1
+ƒ
+java:S1488Ä"`Immediately return this expression instead of assigning it to the temporary variable "transSeq".(ºÃ·ñùÿÿÿÿ8ŞÇ¨½á1
+ƒ
+java:S1488Ô"`Immediately return this expression instead of assigning it to the temporary variable "transSeq".(ºÃ·ñùÿÿÿÿ8ŞÇ¨½á1
+Y
+java:S2629?"7Use the built-in formatting to construct this argument.(‘ì–şÿÿÿÿ8Ãµ‹†ä1
+Z
+java:S2629‰"7Use the built-in formatting to construct this argument.(Ù·’ñúÿÿÿÿ8Ãµ‹†ä1
+z
+java:S2629Ì"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(²ú¨û8Äµ‹†ä1
+U
+java:S2629ß"7Use the built-in formatting to construct this argument.(Æñöß8Äµ‹†ä1
+U
+java:S2629ñ"7Use the built-in formatting to construct this argument.(Æñöß8Äµ‹†ä1
+U
+java:S2629û"7Use the built-in formatting to construct this argument.(ÌÒÒÇ8Äµ‹†ä1
+U
+java:S2629ï"7Use the built-in formatting to construct this argument.(Ù”öá8áÇ¨½á1
+Z
+java:S2589†"7Remove this expression which always evaluates to "true"(ê¾¬±ùÿÿÿÿ8àµ‹†ä1
+_
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄŞ8êÇ¨½á1
+c
+java:S3457?"AFormat specifiers should be used instead of string concatenation.(‘ì–şÿÿÿÿ8äµ‹†ä1
+c
+java:S3457M"AFormat specifiers should be used instead of string concatenation.(å´ã¹şÿÿÿÿ8ïÇ¨½á1
+]	java:S125Z"<This block of commented-out lines of code should be removed.(¿‡øûÿÿÿÿ8ïÇ¨½á1
+X	java:S125\"<This block of commented-out lines of code should be removed.(¬Ùë†8ïÇ¨½á1
+]	java:S125c"<This block of commented-out lines of code should be removed.(ı÷¹·øÿÿÿÿ8ïÇ¨½á1
+X	java:S125e"<This block of commented-out lines of code should be removed.(äéÈÉ8ïÇ¨½á1
+X	java:S125x"<This block of commented-out lines of code should be removed.(ªÏ‘8ğÇ¨½á1
+W	java:S125z"<This block of commented-out lines of code should be removed.(“½Ã8ğÇ¨½á1
+X	java:S125€"<This block of commented-out lines of code should be removed.(œ¦ŒE8ğÇ¨½á1
+a
+java:S1155†">Use isEmpty() to check whether the collection is empty or not.(ê¾¬±ùÿÿÿÿ8éµ‹†ä1
+d
+java:S3457‰"AFormat specifiers should be used instead of string concatenation.(Ù·’ñúÿÿÿÿ8éµ‹†ä1
+d
+java:S3457—"AFormat specifiers should be used instead of string concatenation.(å´ã¹şÿÿÿÿ8ñÇ¨½á1
+d
+java:S3457·"AFormat specifiers should be used instead of string concatenation.(å´ã¹şÿÿÿÿ8òÇ¨½á1
+Y	java:S125À"<This block of commented-out lines of code should be removed.(í±â„8óÇ¨½á1
+X	java:S125Å"<This block of commented-out lines of code should be removed.(ÀŒ„88óÇ¨½á1
+_
+java:S3457Ì"AFormat specifiers should be used instead of string concatenation.(²ú¨û8íµ‹†ä1
+d
+java:S3457Ú"AFormat specifiers should be used instead of string concatenation.(å´ã¹şÿÿÿÿ8óÇ¨½á1
+_
+java:S3457ß"AFormat specifiers should be used instead of string concatenation.(Æñöß8îµ‹†ä1
+c
+java:S1854ê"@Remove this useless assignment to local variable "TRAN_FLAG_DB".(ññ†¢şÿÿÿÿ8ôÇ¨½á1
+d
+java:S3457í"AFormat specifiers should be used instead of string concatenation.(å´ã¹şÿÿÿÿ8ôÇ¨½á1
+_
+java:S3457ñ"AFormat specifiers should be used instead of string concatenation.(Æñöß8ïµ‹†ä1
+_
+java:S3457û"AFormat specifiers should be used instead of string concatenation.(ÌÒÒÇ8ğµ‹†ä1
+d
+java:S3457‰"AFormat specifiers should be used instead of string concatenation.(å´ã¹şÿÿÿÿ8õÇ¨½á1
+Y	java:S125’"<This block of commented-out lines of code should be removed.(‘ú©à8õÇ¨½á1
+d
+java:S3457¯"AFormat specifiers should be used instead of string concatenation.(å´ã¹şÿÿÿÿ8öÇ¨½á1
+d
+java:S3457¿"AFormat specifiers should be used instead of string concatenation.(å´ã¹şÿÿÿÿ8öÇ¨½á1
+d
+java:S3457Ğ"AFormat specifiers should be used instead of string concatenation.(å´ã¹şÿÿÿÿ8÷Ç¨½á1
+d
+java:S3457à"AFormat specifiers should be used instead of string concatenation.(å´ã¹şÿÿÿÿ8÷Ç¨½á1
+_
+java:S3457ï"AFormat specifiers should be used instead of string concatenation.(Ù”öá8øÇ¨½á1

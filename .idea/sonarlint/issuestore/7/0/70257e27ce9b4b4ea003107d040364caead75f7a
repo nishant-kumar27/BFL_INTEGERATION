@@ -1,0 +1,115 @@
+
+t
+java:S2293f"YReplace the type specification in this constructor call with the diamond operator ("<>").(öÊû‚ûÿÿÿÿ
+t
+java:S2293n"YReplace the type specification in this constructor call with the diamond operator ("<>").(›ºÊùÿÿÿÿ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ½’Øÿÿÿÿÿ
+p
+java:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡è¿ÿ
+p
+java:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(åÏ¢ï
+p
+java:S2293ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡è¿ÿ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(åÏ¢ï
+p
+java:S2293é"YReplace the type specification in this constructor call with the diamond operator ("<>").(åÏ¢ï
+p
+java:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡è¿ÿ
+c
+java:S1192ó"GDefine a constant instead of duplicating this literal "%,.2f" 16 times.(ö¿Üÿÿÿÿÿ
+[
+java:S1192z"FDefine a constant instead of duplicating this literal "DRAFT" 3 times.(ÂÆ‹f
+k	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ÕÈõûÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ó®µüÿÿÿÿ
+l	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¡Îúÿÿÿÿ
+?
+java:S5411Š"(Use a primitive boolean expression here.(Î£…ó
+?
+java:S5411£"(Use a primitive boolean expression here.(Ë°Õ
+S
+java:S2589î"7Remove this expression which always evaluates to "true"(Ä†¨Îûÿÿÿÿ
+X
+java:S6813."BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68131"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68134"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68137"BRemove this field injection and use constructor injection instead.(êæÄŞ
+b
+java:S6830)"GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úšöêüÿÿÿÿ
+i
+java:S3776;"SRefactor this method to reduce its Cognitive Complexity from 233 to the 15 allowed.(“–ış
+Y
+java:S1155Z">Use isEmpty() to check whether the collection is empty or not.(¨¦çÉùÿÿÿÿ
+T
+java:S1155`">Use isEmpty() to check whether the collection is empty or not.(©Ï©
+V	java:S125e"<This block of commented-out lines of code should be removed.(æÄØÛùÿÿÿÿ
+Y
+java:S1155r">Use isEmpty() to check whether the collection is empty or not.(¥ÃÜøûÿÿÿÿ
+Z
+java:S1155…">Use isEmpty() to check whether the collection is empty or not.(Ú·«üÿÿÿÿ
+Z
+java:S1155¢">Use isEmpty() to check whether the collection is empty or not.(¨¦çÉùÿÿÿÿ
+U
+java:S1155§">Use isEmpty() to check whether the collection is empty or not.(Ô™Ì¾
+R	java:S125®"<This block of commented-out lines of code should be removed.(¥ááî
+Z
+java:S1155¸">Use isEmpty() to check whether the collection is empty or not.(¨¦çÉùÿÿÿÿ
+U
+java:S1155¾">Use isEmpty() to check whether the collection is empty or not.(Ã ×
+R	java:S125Å"<This block of commented-out lines of code should be removed.(ôû˜§
+W	java:S125ø"<This block of commented-out lines of code should be removed.(ØÆèüÿÿÿÿ
+Z
+java:S1155€">Use isEmpty() to check whether the collection is empty or not.(¨¦çÉùÿÿÿÿ
+U
+java:S1155†">Use isEmpty() to check whether the collection is empty or not.(™¡ªÒ
+R	java:S125ˆ"<This block of commented-out lines of code should be removed.(âÕïÖ
+R	java:S125"<This block of commented-out lines of code should be removed.(¥ááî
+U
+java:S1155’">Use isEmpty() to check whether the collection is empty or not.(£›ó˜
+Z
+java:S1155™">Use isEmpty() to check whether the collection is empty or not.(¨¦çÉùÿÿÿÿ
+U
+java:S1155Ÿ">Use isEmpty() to check whether the collection is empty or not.(Ã ×
+R	java:S125 "<This block of commented-out lines of code should be removed.(ıÜØë
+R	java:S125¥"<This block of commented-out lines of code should be removed.(ıÜØë
+R	java:S125§"<This block of commented-out lines of code should be removed.(¼à‹»
+U
+java:S1155©">Use isEmpty() to check whether the collection is empty or not.(‡íÌ
+U
+java:S1155©">Use isEmpty() to check whether the collection is empty or not.(‡íÌ
+R	java:S125¬"<This block of commented-out lines of code should be removed.(ôû˜§
+Q	java:S125®"<This block of commented-out lines of code should be removed.(¸Úù#
+W	java:S125¹"<This block of commented-out lines of code should be removed.(³Ê•œùÿÿÿÿ
+]
+java:S3457â"AFormat specifiers should be used instead of string concatenation.( íåÔşÿÿÿÿ
+n
+java:S3776è"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(îƒÿÄøÿÿÿÿ
+Z
+java:S1155ê">Use isEmpty() to check whether the collection is empty or not.( µü£ÿÿÿÿÿ
+R	java:S125ƒ"<This block of commented-out lines of code should be removed.(ÎŠ“à
+W	java:S125Â"<This block of commented-out lines of code should be removed.(†ôö€üÿÿÿÿ
+W	java:S125Ğ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+ˆ
+java:S1130İ"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(‡”³
+C
+java:S1172ã",Remove this unused method parameter "draft".(Ó² “
+U
+java:S1155ç">Use isEmpty() to check whether the collection is empty or not.(™¡ªÒ
+i
+java:S1871î"MThis branch's code block is the same as the block for the branch on line 491.(Ä†¨Îûÿÿÿÿ
+i
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(„²Ğ
+`
+java:S1858„"D"getLocName" returns a string, there's no need to call "toString()".(Ï°ò°şÿÿÿÿ
+g
+java:S1858–"K"getSupCurrecyCode" returns a string, there's no need to call "toString()".(µ£¨ãıÿÿÿÿ
+]
+java:S1858™"A"getPost" returns a string, there's no need to call "toString()".(¡œ­áşÿÿÿÿ
+^
+java:S1858š"B"getState" returns a string, there's no need to call "toString()".(‡Èèğùÿÿÿÿ
+İ
+java:S6541;"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 211 to 64, Complexity from 79 to 14, Nesting Level from 8 to 2, Number of Variables from 55 to 6.(“–ış

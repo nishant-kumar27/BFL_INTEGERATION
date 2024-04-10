@@ -1,0 +1,62 @@
+
+p
+java:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(£ù•
+p
+java:S2293Â"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸È÷í
+p
+java:S2293Ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸È÷í
+8
+java:S1643¨"Use a StringBuilder instead.( ¬’ƒıÿÿÿÿ
+x
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¡Ã‡²ûÿÿÿÿ
+x
+java:S2629¯"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¼İó©şÿÿÿÿ
+S
+java:S2629´"7Use the built-in formatting to construct this argument.(õî‰“ûÿÿÿÿ
+x
+java:S2629Ä"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(÷Óçñıÿÿÿÿ
+S
+java:S2629É"7Use the built-in formatting to construct this argument.(õî‰“ûÿÿÿÿ
+X
+java:S6813-"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68130"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68133"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68136"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68139"BRemove this field injection and use constructor injection instead.(êæÄŞ
+b
+java:S6830("GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ­Ÿôşÿÿÿÿ
+h
+java:S3776="RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(“–ış
+V	java:S125R"<This block of commented-out lines of code should be removed.(ÊğÎ©üÿÿÿÿ
+Y
+java:S1155X">Use isEmpty() to check whether the collection is empty or not.(¨¦çÉùÿÿÿÿ
+Y
+java:S1155^">Use isEmpty() to check whether the collection is empty or not.(³Ÿ¾şÿÿÿÿ
+\
+java:S3457k"AFormat specifiers should be used instead of string concatenation.( íåÔşÿÿÿÿ
+H
+java:S1172q"-Remove this unused method parameter "mapper".(¯¦ığıÿÿÿÿ
+i
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(È¯ˆ»
+V	java:S125~"<This block of commented-out lines of code should be removed.(í‚ş¿úÿÿÿÿ
+]
+java:S3457"AFormat specifiers should be used instead of string concatenation.(¡Ã‡²ûÿÿÿÿ
+P
+java:S1117‘":Rename "helper" which hides the field declared at line 51.(ˆ¸
+]
+java:S3457¯"AFormat specifiers should be used instead of string concatenation.(¼İó©şÿÿÿÿ
+]
+java:S3457´"AFormat specifiers should be used instead of string concatenation.(õî‰“ûÿÿÿÿ
+]
+java:S3457Ä"AFormat specifiers should be used instead of string concatenation.(÷Óçñıÿÿÿÿ
+]
+java:S3457É"AFormat specifiers should be used instead of string concatenation.(õî‰“ûÿÿÿÿ
+R	java:S125Õ"<This block of commented-out lines of code should be removed.(Á¸‘û
+ˆ
+java:S1130‹"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(‡”³
+İ
+java:S6541ˆ"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 71 to 64, Complexity from 15 to 14, Nesting Level from 4 to 2, Number of Variables from 16 to 6.(È¯ˆ»

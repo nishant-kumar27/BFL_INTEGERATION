@@ -1,0 +1,31 @@
+
+k	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚–úÿÿÿÿ
+X
+java:S6813("BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813+"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813."BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68131"BRemove this field injection and use constructor injection instead.(êæÄŞ
+b
+java:S6830#"GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÿÔšüÿÿÿÿ
+h
+java:S37765"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(“–ış
+Y
+java:S1155R">Use isEmpty() to check whether the collection is empty or not.(Ö¦“¹üÿÿÿÿ
+T
+java:S1155W">Use isEmpty() to check whether the collection is empty or not.(ï‡’µ
+Y
+java:S1155]">Use isEmpty() to check whether the collection is empty or not.(Ø ¯úÿÿÿÿ
+V	java:S125l"<This block of commented-out lines of code should be removed.(ôÇè„ùÿÿÿÿ
+\
+java:S3457s"AFormat specifiers should be used instead of string concatenation.( íåÔşÿÿÿÿ
+c
+java:S3986z"HMake sure that week Year "YYYY" is expected here instead of Year "yyyy".(Á¨åêúÿÿÿÿ
+Y
+java:S1155}">Use isEmpty() to check whether the collection is empty or not.(êîÑ¿ÿÿÿÿÿ
+I
+java:S1172š"-Remove this unused method parameter "mapper".(ÔõÙØúÿÿÿÿ
+W	java:S125ª"<This block of commented-out lines of code should be removed.(ü¸Ç‰ıÿÿÿÿ
+W	java:S125»"<This block of commented-out lines of code should be removed.(æÄ¦îüÿÿÿÿ

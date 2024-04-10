@@ -1,0 +1,84 @@
+
+g	java:S117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùáã
+g	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ÿ¨
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡½şú
+l	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ä‹áùÿÿÿÿ
+l	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œİ¹„úÿÿÿÿ
+l	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÅ™åøÿÿÿÿ
+b	java:S116	"MRename this field "SN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ™¡ˆ
+n	java:S116"TRename this field "EntryDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—û§Õûÿÿÿÿ
+p	java:S116"VRename this field "InvoiceDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·š–¼øÿÿÿÿ
+n	java:S116"TRename this field "InvoiceNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×·Å°şÿÿÿÿ
+k	java:S116"QRename this field "Userid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•­¿âøÿÿÿÿ
+k	java:S116"QRename this field "ContNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÿ˜úÿÿÿÿ
+k	java:S116"VRename this field "StackingFee" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÖ¯•
+n	java:S116"TRename this field "InvAmount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”§´¨ÿÿÿÿÿ
+j	java:S116"URename this field "CommAmount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß›õ‚
+h	java:S116"SRename this field "CommPerc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷·à¹
+j	java:S116"URename this field "PaidAmount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÈèÍ
+g	java:S116!"RRename this field "DueDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³úá™
+k	java:S116#"QRename this field "Winter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¯êùÿÿÿÿ
+n	java:S116%"TRename this field "OtherDesc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùĞåÁúÿÿÿÿ
+k	java:S116'"QRename this field "Export" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–øëüûÿÿÿÿ
+j	java:S116)"URename this field "ExportDesc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ú°
+m	java:S116+"SRename this field "SuppCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üöË…ûÿÿÿÿ
+h	java:S116-"SRename this field "Currency" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ…ú
+o	java:S116/"URename this field "NonPayment" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¢Íòøÿÿÿÿ
+m	java:S1161"SRename this field "ShoesCat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—©¦×şÿÿÿÿ
+j	java:S1163"URename this field "ItemGroups" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çƒ”
+i	java:S1165"ORename this field "SBLC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÙ‰Çúÿÿÿÿ
+f	java:S1167"RRename this field "Country" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š„’9
+l	java:S1169"RRename this field "EtaDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¡Ñİÿÿÿÿÿ
+l	java:S116;"RRename this field "EtdDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šó¼îøÿÿÿÿ
+g	java:S116="RRename this field "AtaDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã§¥ñ
+d	java:S116?"ORename this field "BLNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“úî±
+o	java:S116A"URename this field "PickupDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ùåÁüÿÿÿÿ
+f	java:S116C"RRename this field "InvPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏŒÙ5
+g	java:S116E"RRename this field "ChqPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¬•ú
+m	java:S116G"SRename this field "ChqPath2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä«ßúıÿÿÿÿ
+g	java:S116I"SRename this field "ChqPath3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àğíY
+k	java:S116K"VRename this field "ReceiptPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÖ­
+l	java:S116M"WRename this field "ReceiptPath2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÚç
+q	java:S116O"WRename this field "ReceiptPath3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼“”ıÿÿÿÿ
+o	java:S116Q"URename this field "OthersPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â–Ğûÿÿÿÿ
+f	java:S116S"QRename this field "VatAmt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âùâş
+l	java:S116U"RRename this field "VatJvNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âº†›ûÿÿÿÿ
+l	java:S116W"RRename this field "EmailDt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şäş¶ıÿÿÿÿ
+l	java:S116Y"RRename this field "ORAPONo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É°êìÿÿÿÿÿ
+m	java:S116]"XRename this field "Approved_Date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›û­²
+t	java:S116a"_Rename this field "Tentative_ShipmentDt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ãÚ·
+l	java:S116c"WRename this field "claim_Period" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÇ‚•
+l	java:S116e"WRename this field "ProdLeadTime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®â’ã
+l	java:S116g"WRename this field "POLineStatus" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÈù¦
+r	java:S116i"XRename this field "Order_Changed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©…¬Ùüÿÿÿÿ
+o	java:S116k"URename this field "PromisedTT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Í—Ğùÿÿÿÿ
+m	java:S116m"SRename this field "ActualTT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì§ã¶úÿÿÿÿ
+h	java:S116o"SRename this field "Discount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¬¹¡
+h	java:S116q"NRename this field "POL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¡éÿÿÿÿÿ
+b	java:S116s"MRename this field "FF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù‰»×
+o	java:S116u"URename this field "Cargo_Size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î©ò¨øÿÿÿÿ
+i	java:S116y"TRename this field "Cust_Decl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¡Øˆ
+p	java:S116"URename this field "AssignedTo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï´Ê¤øÿÿÿÿ
+q	java:S116ƒ"VRename this field "AirShipment" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸©êçûÿÿÿÿ
+f	java:S116…"PRename this field "JobNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¬ôÈ
+o	java:S116‡"TRename this field "GroupCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­íç—øÿÿÿÿ
+g	java:S116‹"RRename this field "CatCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÎó
+i	java:S116"NRename this field "Qty" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æºıúÿÿÿÿ
+g	java:S116"QRename this field "Amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…˜Úò
+r	java:S116‘"WRename this field "DiscountPerc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç²¦ãúÿÿÿÿ
+o	java:S116“"TRename this field "PalletCnt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ÔÑ²ÿÿÿÿÿ
+m	java:S116•"RRename this field "LoadQty" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÉİ“ùÿÿÿÿ
+h	java:S116—"RRename this field "OrderNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­øÁ
+i	java:S116™"SRename this field "Shipment" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÕî
+i	java:S100ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¼ˆøüÿÿÿÿ
+d	java:S100÷"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùáã
+i	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¤ƒÂøÿÿÿÿ
+d	java:S100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ÿ¨
+d	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•”î¸
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡½şú
+i	java:S100£"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÁ™ûÿÿÿÿ
+i	java:S100§"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ä‹áùÿÿÿÿ
+d	java:S100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øà¼¸
+i	java:S100×"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œİ¹„úÿÿÿÿ
+d	java:S100ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õäï
+i	java:S100ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÅ™åøÿÿÿÿ

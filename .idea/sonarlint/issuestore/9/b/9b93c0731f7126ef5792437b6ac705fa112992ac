@@ -1,0 +1,94 @@
+
+p
+java:S2293Á"YReplace the type specification in this constructor call with the diamond operator ("<>").(®ßŠ½
+g
+java:S1192Æ"PDefine a constant instead of duplicating this literal "STORE_COST_CODE" 4 times.(Êõ™Ý
+c
+java:S1192¢"GDefine a constant instead of duplicating this literal "CTILLT" 3 times.(‹ÞÂåýÿÿÿÿ
+k
+java:S1192È"ODefine a constant instead of duplicating this literal "STORE_LOC_CODE" 4 times.(¼¬àÒúÿÿÿÿ
+`
+java:S1192Ç"IDefine a constant instead of duplicating this literal "STORE_ID" 5 times.(»Ã„ü
+b
+java:S1192Í"FDefine a constant instead of duplicating this literal "FHEAD" 3 times.(ÀæÏþÿÿÿÿ
+]
+java:S1192 "FDefine a constant instead of duplicating this literal "TOTAL" 3 times.(ðð¿¬
+]
+java:S1192c"HDefine a constant instead of duplicating this literal "SUCCESS" 3 times.(Èâ–(
+e
+java:S1192Ò"IDefine a constant instead of duplicating this literal "yyyyMMdd" 3 times.(µß¹ÿÿÿÿÿ
+b
+java:S1192Û"FDefine a constant instead of duplicating this literal "THEAD" 5 times.(«èöœÿÿÿÿÿ
+f
+java:S1192Ø"ODefine a constant instead of duplicating this literal "yyyyMMddHHMMSS" 3 times.(ÔáÀÇ
+b
+java:S1192Ñ"KDefine a constant instead of duplicating this literal "yyyy-MM-dd" 4 times.(µ¿Ÿâ
+P
+java:S1141["5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+g	java:S117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“þˆé
+v
+java:S1488ñ"_Immediately return this expression instead of assigning it to the temporary variable "trndate".(ëóä
+z
+java:S2259­"WA "NullPointerException" could be thrown; "sendDailyStoreClosingData" is nullable here.(„³©üÿÿÿÿÿ8¤™—»á1
+X
+java:S6813,"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813/"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S68132"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S68135"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S68138"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813;"BRemove this field injection and use constructor injection instead.(êæÄÞ
+]
+java:S6830'"GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì©š²
+h
+java:S3776?"RRefactor this method to reduce its Cognitive Complexity from 99 to the 15 allowed.(“–ýþ
+Z
+java:S1854g"DRemove this useless assignment to local variable "sendExpensevalue".(ûµË”
+b
+java:S1854v"MRemove this useless assignment to local variable "sendDailyStoreClosingData".(Ý‚¾k
+c
+java:S1854«"MRemove this useless assignment to local variable "sendDailyStoreClosingData".(Ý‚¾k
+Y
+java:S1155J">Use isEmpty() to check whether the collection is empty or not.(Ôð˜äùÿÿÿÿ
+T
+java:S1155i">Use isEmpty() to check whether the collection is empty or not.(„ÐÝì
+Y
+java:S1155x">Use isEmpty() to check whether the collection is empty or not.(Ñ¼¶ÿÿÿÿÿ
+o
+java:S2139"XEither log this exception and handle it, or rethrow it with some contextual information.(”ý¾
+]
+java:S3457‚"AFormat specifiers should be used instead of string concatenation.(‘ƒÈüûÿÿÿÿ
+]
+java:S3457ˆ"AFormat specifiers should be used instead of string concatenation.(‘ƒÈüûÿÿÿÿ
+a
+java:S1155‘">Use isEmpty() to check whether the collection is empty or not.(øúô°üÿÿÿÿ8®™—»á1
+R	java:S125’"<This block of commented-out lines of code should be removed.(¹…ßÚ
+Z
+java:S1155­">Use isEmpty() to check whether the collection is empty or not.(„³©üÿÿÿÿÿ
+]
+java:S3457µ"AFormat specifiers should be used instead of string concatenation.(Ï†ßäùÿÿÿÿ
+X
+java:S3457Ê"AFormat specifiers should be used instead of string concatenation.(€Ý”Í
+W	java:S125Ï"<This block of commented-out lines of code should be removed.(ÿÏš‡úÿÿÿÿ
+W	java:S125Ô"<This block of commented-out lines of code should be removed.(¥Û³õüÿÿÿÿ
+W	java:S125Ù"<This block of commented-out lines of code should be removed.(ˆ‡ïÁùÿÿÿÿ
+X
+java:S3457þ"AFormat specifiers should be used instead of string concatenation.(€Ý”Í
+R	java:S125†"<This block of commented-out lines of code should be removed.(ƒ‡Å˜
+W	java:S125‘"<This block of commented-out lines of code should be removed.(¬ÕË¬øÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(¡³Êðýÿÿÿÿ
+R	java:S125¿"<This block of commented-out lines of code should be removed.(ãö®“
+]
+java:S3457Ý"AFormat specifiers should be used instead of string concatenation.(üæõËüÿÿÿÿ
+X
+java:S3457"AFormat specifiers should be used instead of string concatenation.(–Ù¿¿
+X
+java:S3457¥"AFormat specifiers should be used instead of string concatenation.(ÃèÛÊ
+e
+java:S1128"CRemove this unused import 'com.bfl.service.IFoundationDataService'.(Ü”ä®üÿÿÿÿ8À™—»á1
+Ý
+java:S6541?"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 119 to 64, Complexity from 47 to 14, Nesting Level from 9 to 2, Number of Variables from 34 to 6.(“–ýþ

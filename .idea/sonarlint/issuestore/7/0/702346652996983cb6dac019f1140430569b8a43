@@ -1,0 +1,24 @@
+
+z
+java:S1488{"_Immediately return this expression instead of assigning it to the temporary variable "trndate".(¼ªŠ½øÿÿÿÿ
+X
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813,"BRemove this field injection and use constructor injection instead.(êæÄÞ
+b
+java:S6830"GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ƒÏ¬ýÿÿÿÿ
+h
+java:S37762"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(“–ýþ
+T
+java:S11558">Use isEmpty() to check whether the collection is empty or not.(èÚòé
+W
+java:S3457e"AFormat specifiers should be used instead of string concatenation.(Üù‰Â
+‡
+java:S1130k"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(Ïì­–
+V	java:S125p"<This block of commented-out lines of code should be removed.(§Å”÷þÿÿÿÿ

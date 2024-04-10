@@ -1,0 +1,256 @@
+
+c	java:S112ù"FDefine and throw a dedicated exception instead of using a generic one.(´¥å8Ó÷áÅá1
+c	java:S112Š"FDefine and throw a dedicated exception instead of using a generic one.(´¥å8Ó÷áÅá1
+v
+java:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¢ĞÃ8Õ÷áÅá1
+v
+java:S2293h"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¢ĞÃ8Õ÷áÅá1
+v
+java:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¢ĞÃ8Ö÷áÅá1
+w
+java:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¢ĞÃ8Ö÷áÅá1
+w
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¢ĞÃ8×÷áÅá1
+w
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¢ĞÃ8×÷áÅá1
+w
+java:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¢ĞÃ8Ø÷áÅá1
+w
+java:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¢ĞÃ8Ø÷áÅá1
+w
+java:S2293Ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¢ĞÃ8Ø÷áÅá1
+w
+java:S2293Ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(À’×8Ù÷áÅá1
+w
+java:S2293á"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¢ĞÃ8Ú÷áÅá1
+w
+java:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘Õ”8Ú÷áÅá1
+w
+java:S2293û"YReplace the type specification in this constructor call with the diamond operator ("<>").(øÖ‘«8Ú÷áÅá1
+w
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘Õ”8Û÷áÅá1
+w
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¢ĞÃ8Û÷áÅá1
+w
+java:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¢ĞÃ8Ü÷áÅá1
+|
+java:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(æÔ›íüÿÿÿÿ8Ü÷áÅá1
+w
+java:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘Õ”8İ÷áÅá1
+|
+java:S2293á"YReplace the type specification in this constructor call with the diamond operator ("<>").(û‹­Şıÿÿÿÿ8Ş÷áÅá1
+w
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¢ĞÃ8Ş÷áÅá1
+w
+java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¢ĞÃ8ß÷áÅá1
+w
+java:S2293§"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘Õ”8ß÷áÅá1
+w
+java:S2293¼"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¢ĞÃ8ß÷áÅá1
+|
+java:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(„‹‘ßûÿÿÿÿ8à÷áÅá1
+|
+java:S2293à"YReplace the type specification in this constructor call with the diamond operator ("<>").(„‹‘ßûÿÿÿÿ8à÷áÅá1
+w
+java:S2293ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¢ĞÃ8á÷áÅá1
+w
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(üÉÔÃ8â÷áÅá1
+|
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢ÔË¤øÿÿÿÿ8ã÷áÅá1
+|
+java:S2293±"YReplace the type specification in this constructor call with the diamond operator ("<>").(®ÑĞüÿÿÿÿ8ã÷áÅá1
+|
+java:S2293Ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(«éÆİøÿÿÿÿ8ã÷áÅá1
+w
+java:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(î·Ô8å÷áÅá1
+|
+java:S2293ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(éÄéòüÿÿÿÿ8å÷áÅá1
+w
+java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ùù£‹8æ÷áÅá1
+|
+java:S2293¬"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ¢óşúÿÿÿÿ8æ÷áÅá1
+w
+java:S2293Ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(Áòà•8ç÷áÅá1
+|
+java:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").(ı—ı ÿÿÿÿÿ8ç÷áÅá1
+w
+java:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").(†»°Ï8è÷áÅá1
+w
+java:S2293ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(åéÁ8è÷áÅá1
+w
+java:S2293ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(†»°Ï8é÷áÅá1
+w
+java:S2293‚"YReplace the type specification in this constructor call with the diamond operator ("<>").(É‡Õ«8é÷áÅá1
+w
+java:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¢ĞÃ8ê÷áÅá1
+w
+java:S2293¶"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¢ĞÃ8ë÷áÅá1
+w
+java:S2293É"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¢ĞÃ8ì÷áÅá1
+w
+java:S2293à"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¢ĞÃ8í÷áÅá1
+w
+java:S2293ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¢ĞÃ8ï÷áÅá1
+w
+java:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘Õ”8ï÷áÅá1
+|
+java:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚¤±øıÿÿÿÿ8ğ÷áÅá1
+w
+java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘Õ”8ğ÷áÅá1
+w
+java:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘Õ”8ñ÷áÅá1
+w
+java:S2293ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘Õ”8ñ÷áÅá1
+w
+java:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘Õ”8ò÷áÅá1
+n
+java:S1192Œ"KDefine a constant instead of duplicating this literal "&fromdate=" 7 times.(—Üú•øÿÿÿÿ8ó÷áÅá1
+k
+java:S1192ß"HDefine a constant instead of duplicating this literal "limit=" 19 times.(ÛĞÜîÿÿÿÿÿ8ô÷áÅá1
+k
+java:S1192¨"HDefine a constant instead of duplicating this literal "contNo=" 4 times.(°§«ìúÿÿÿÿ8ô÷áÅá1
+k
+java:S1192£"HDefine a constant instead of duplicating this literal "before=" 3 times.(ª£™Üúÿÿÿÿ8õ÷áÅá1
+q
+java:S1192t"ODefine a constant instead of duplicating this literal "?&PM_order_no=" 3 times.(‡åËûÿÿÿÿ8÷÷áÅá1
+f
+java:S1192 "HDefine a constant instead of duplicating this literal "&since=" 3 times.(ßŠªê8ó÷áÅá1
+f
+java:S1192"HDefine a constant instead of duplicating this literal "todate=" 5 times.(ë˜„è8õ÷áÅá1
+e
+java:S1192W"HDefine a constant instead of duplicating this literal "&limit=" 7 times.(…¡„Ö8³çöÃá1
+m	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É«Ë8ù÷áÅá1
+r	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®†üÎÿÿÿÿÿ8ú÷áÅá1
+‚
+java:S1488["`Immediately return this expression instead of assigning it to the temporary variable "response".(Î½ì®ûÿÿÿÿ8ş÷áÅá1
+‚
+java:S1488j"`Immediately return this expression instead of assigning it to the temporary variable "response".(Î½ì®ûÿÿÿÿ8ÿ÷áÅá1
+‚
+java:S1488x"`Immediately return this expression instead of assigning it to the temporary variable "response".(ó ëüÿÿÿÿ8€øáÅá1
+ƒ
+java:S1488…"`Immediately return this expression instead of assigning it to the temporary variable "response".(°öÍğøÿÿÿÿ8øáÅá1
+~
+java:S1488“"`Immediately return this expression instead of assigning it to the temporary variable "response".(œŒŒó8‚øáÅá1
+z
+java:S1488¬"\Immediately return this expression instead of assigning it to the temporary variable "body".(»Ù•„8ƒøáÅá1
+~
+java:S1488¼"`Immediately return this expression instead of assigning it to the temporary variable "response".(¿Ö™´8„øáÅá1
+ƒ
+java:S1488â"`Immediately return this expression instead of assigning it to the temporary variable "response".(å¤Ğªúÿÿÿÿ8…øáÅá1
+ƒ
+java:S1488î"`Immediately return this expression instead of assigning it to the temporary variable "response".(†®à£ÿÿÿÿÿ8†øáÅá1
+ƒ
+java:S1488’"`Immediately return this expression instead of assigning it to the temporary variable "response".(À‡ˆ¸üÿÿÿÿ8‡øáÅá1
+ƒ
+java:S1488ô"`Immediately return this expression instead of assigning it to the temporary variable "response".(Ã¦Ş‚ùÿÿÿÿ8ˆøáÅá1
+~
+java:S1488¡"`Immediately return this expression instead of assigning it to the temporary variable "response".(ˆ±†è8‰øáÅá1
+d
+java:S2259ö"FA "NullPointerException" could be thrown; "getBody()" can return null.(¨­­8ùáÅá1
+d
+java:S2259‡"FA "NullPointerException" could be thrown; "getBody()" can return null.(¨­­8ùáÅá1
+d
+java:S2259ö"FA "NullPointerException" could be thrown; "getBody()" can return null.(¨­­8ùáÅá1
+d
+java:S2259‡"FA "NullPointerException" could be thrown; "getBody()" can return null.(¨­­8ùáÅá1
+Z
+java:S2589"7Remove this expression which always evaluates to "true"(ìşÃˆÿÿÿÿÿ8“ùáÅá1
+Z
+java:S2589¶"7Remove this expression which always evaluates to "true"(ìşÃˆÿÿÿÿÿ8›ùáÅá1
+Z
+java:S2589Ğ"7Remove this expression which always evaluates to "true"(ìşÃˆÿÿÿÿÿ8•ùáÅá1
+U
+java:S2589é"7Remove this expression which always evaluates to "true"(õé¶Æ8›ùáÅá1
+Z
+java:S2589õ"7Remove this expression which always evaluates to "true"(¨âëŒşÿÿÿÿ8–ùáÅá1
+U
+java:S2589å"7Remove this expression which always evaluates to "true"(¢»ú8›ùáÅá1
+Z
+java:S2589™"7Remove this expression which always evaluates to "true"(ìşÃˆÿÿÿÿÿ8šùáÅá1
+U
+java:S2589ä"7Remove this expression which always evaluates to "true"(¢»ú8–ùáÅá1
+U
+java:S2589"7Remove this expression which always evaluates to "true"(õé¶Æ8ùáÅá1
+Z
+java:S2589È"7Remove this expression which always evaluates to "true"(ìşÃˆÿÿÿÿÿ8•ùáÅá1
+Z
+java:S2589†"7Remove this expression which always evaluates to "true"(¨âëŒşÿÿÿÿ8”ùáÅá1
+U
+java:S2589Î"7Remove this expression which always evaluates to "true"(Û¢‹8ùáÅá1
+U
+java:S2589ƒ"7Remove this expression which always evaluates to "true"(Û¢‹8™ùáÅá1
+U
+java:S2589ÿ"7Remove this expression which always evaluates to "true"(Û¢‹8œùáÅá1
+U
+java:S2589¯"7Remove this expression which always evaluates to "true"(Û¢‹8œùáÅá1
+U
+java:S2589Ñ"7Remove this expression which always evaluates to "true"(¢»ú8ùáÅá1
+U
+java:S2589…"7Remove this expression which always evaluates to "true"(õé¶Æ8—ùáÅá1
+Z
+java:S2589±"7Remove this expression which always evaluates to "true"(ìşÃˆÿÿÿÿÿ8ùáÅá1
+U
+java:S2589¾"7Remove this expression which always evaluates to "true"(¢»ú8šùáÅá1
+U
+java:S2589´"7Remove this expression which always evaluates to "true"(Û¢‹8’ùáÅá1
+U
+java:S2589ç"7Remove this expression which always evaluates to "true"(Û¢‹8˜ùáÅá1
+U
+java:S2589ã"7Remove this expression which always evaluates to "true"(şº—˜8—ùáÅá1
+U
+java:S2589ÿ"7Remove this expression which always evaluates to "true"(¢»ú8‘ùáÅá1
+U
+java:S2589Æ"7Remove this expression which always evaluates to "true"(Û¢‹8“ùáÅá1
+U
+java:S2589›"7Remove this expression which always evaluates to "true"(Û¢‹8™ùáÅá1
+U
+java:S2589—"7Remove this expression which always evaluates to "true"(Û¢‹8”ùáÅá1
+_
+java:S6813K"BRemove this field injection and use constructor injection instead.(êæÄŞ8¢ùáÅá1
+_
+java:S6813N"BRemove this field injection and use constructor injection instead.(êæÄŞ8£ùáÅá1
+X	java:S125\"<This block of commented-out lines of code should be removed.(ò†î8©ùáÅá1
+]	java:S125d"<This block of commented-out lines of code should be removed.(é‰ìúÿÿÿÿ8ªùáÅá1
+X	java:S125i"<This block of commented-out lines of code should be removed.(Ôûí©8«ùáÅá1
+X	java:S125k"<This block of commented-out lines of code should be removed.(ò†î8¬ùáÅá1
+Y	java:S125„"<This block of commented-out lines of code should be removed.(Ôûí©8°ùáÅá1
+Y	java:S125†"<This block of commented-out lines of code should be removed.(ò†î8°ùáÅá1
+Y	java:S125’"<This block of commented-out lines of code should be removed.(Ôûí©8³ùáÅá1
+Y	java:S125”"<This block of commented-out lines of code should be removed.(ò†î8´ùáÅá1
+^	java:S125¨"<This block of commented-out lines of code should be removed.(Êçù¬úÿÿÿÿ8¶ùáÅá1
+Y	java:S125«"<This block of commented-out lines of code should be removed.(Ôûí©8·ùáÅá1
+^	java:S125­"<This block of commented-out lines of code should be removed.(ªÀ¡«ıÿÿÿÿ8¸ùáÅá1
+^	java:S125º"<This block of commented-out lines of code should be removed.(ƒÆÉªüÿÿÿÿ8ºùáÅá1
+Y	java:S125½"<This block of commented-out lines of code should be removed.(ò†î8¼ùáÅá1
+^	java:S125ù"<This block of commented-out lines of code should be removed.(®ºÈúÿÿÿÿ8ÈùáÅá1
+Y	java:S125ƒ"<This block of commented-out lines of code should be removed.(„§ñ£8ËùáÅá1
+^	java:S125¸"<This block of commented-out lines of code should be removed.(ÈãŸšüÿÿÿÿ8ÖùáÅá1
+^	java:S125Ã"<This block of commented-out lines of code should be removed.(¾Ÿüóúÿÿÿÿ8ØùáÅá1
+_
+java:S3457Å"AFormat specifiers should be used instead of string concatenation.(‚â¬Ç8ÚùáÅá1
+Y	java:S125"<This block of commented-out lines of code should be removed.(Ôûí©8‡úáÅá1
+Y	java:S125è"<This block of commented-out lines of code should be removed.(„§ñ£8’úáÅá1
+Y	java:S125ó"<This block of commented-out lines of code should be removed.(Ôûí©8—úáÅá1
+Y	java:S125õ"<This block of commented-out lines of code should be removed.(ò†î8˜úáÅá1
+Y	java:S125ò"<This block of commented-out lines of code should be removed.(Ôûí©8®úáÅá1
+Y	java:S125ô"<This block of commented-out lines of code should be removed.(ò†î8¯úáÅá1
+Y	java:S125ƒ"<This block of commented-out lines of code should be removed.(Ôûí©8²úáÅá1
+Y	java:S125…"<This block of commented-out lines of code should be removed.(ò†î8´úáÅá1
+Y	java:S125¢"<This block of commented-out lines of code should be removed.(ò†î8ºúáÅá1
+Y	java:S125Ô"<This block of commented-out lines of code should be removed.(ßı½¯8¿úáÅá1
+Z
+java:S3972Ø"7Move this "if" to a new line or add the missing "else".(Ô„±¦şÿÿÿÿ8ÀúáÅá1
+^	java:S125Û"<This block of commented-out lines of code should be removed.(‡ˆÕïûÿÿÿÿ8ÁúáÅá1
+Š
+java:S1130“"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(êû£8ĞúáÅá1
+^	java:S125Ÿ"<This block of commented-out lines of code should be removed.(‰Ş·óûÿÿÿÿ8ÓúáÅá1
+^	java:S125£"<This block of commented-out lines of code should be removed.(•à™úşÿÿÿÿ8ÔúáÅá1
+^	java:S125©"<This block of commented-out lines of code should be removed.(íÆäÛüÿÿÿÿ8×úáÅá1
+^	java:S125Á"<This block of commented-out lines of code should be removed.(‰Ş·óûÿÿÿÿ8İúáÅá1
+^	java:S125Å"<This block of commented-out lines of code should be removed.(•à™úşÿÿÿÿ8ŞúáÅá1
+^	java:S125Ë"<This block of commented-out lines of code should be removed.(íÆäÛüÿÿÿÿ8ßúáÅá1
+^	java:S125Ø"<This block of commented-out lines of code should be removed.(‰Ş·óûÿÿÿÿ8áúáÅá1
+^	java:S125İ"<This block of commented-out lines of code should be removed.(•à™úşÿÿÿÿ8âúáÅá1
+^	java:S125ï"<This block of commented-out lines of code should be removed.(‰Ş·óûÿÿÿÿ8åúáÅá1
+^	java:S125ö"<This block of commented-out lines of code should be removed.(íÆäÛüÿÿÿÿ8çúáÅá1
+^	java:S125„"<This block of commented-out lines of code should be removed.(‰Ş·óûÿÿÿÿ8êúáÅá1

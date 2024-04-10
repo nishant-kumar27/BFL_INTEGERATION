@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>publicpayload</groupId>
+  <artifactId>retail-public-payload-java-beans</artifactId>
+  <versioning>
+    <release>22.0.000</release>
+    <versions>
+      <version>22.0.000</version>
+    </versions>
+    <lastUpdated>20230102111349</lastUpdated>
+  </versioning>
+</metadata>

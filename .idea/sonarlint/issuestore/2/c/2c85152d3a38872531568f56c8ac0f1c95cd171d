@@ -1,0 +1,15 @@
+
+J
+java:S1604%"(Make this anonymous inner class a lambda(©”×‘üÿÿÿÿ8¸¼—‹ã1
+~
+java:S1488)"aImmediately return this expression instead of assigning it to the temporary variable "predicate".(©©ô„8¹¼—‹ã1
+Y
+java:S36556"7Call "Optional#isPresent()" before accessing the value.(ª“¶ùþÿÿÿÿ8Ã¼—‹ã1
+Y
+java:S3655<"7Call "Optional#isPresent()" before accessing the value.(Ë†¿Íûÿÿÿÿ8Ã¼—‹ã1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8Ä¼—‹ã1
+^
+java:S3457/"AFormat specifiers should be used instead of string concatenation.(ýÃò¾8Î¼—‹ã1
+H
+java:S11681"+Return an empty collection instead of null.(¥¹ï8Î¼—‹ã1

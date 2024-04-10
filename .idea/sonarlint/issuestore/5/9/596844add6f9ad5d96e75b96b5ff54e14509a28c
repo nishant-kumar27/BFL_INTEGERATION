@@ -1,0 +1,38 @@
+
+‘
+java:S1192."vDefine a constant instead of duplicating this literal "Error occured while getting the Tran Flag DB details " 4 times.(å´ã¹şÿÿÿÿ
+h
+java:S1192)"MDefine a constant instead of duplicating this literal "TRAN_FLAG_DB" 4 times.(„•ìúúÿÿÿÿ
+k	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¶Ûåıÿÿÿÿ
+f	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…
+f	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…
+f	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…
+g	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…
+z
+java:S1488J"_Immediately return this expression instead of assigning it to the temporary variable "records".(†ı„üÿÿÿÿ
+z
+java:S1488["_Immediately return this expression instead of assigning it to the temporary variable "records".(†ı„üÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+U
+java:S3416"?Update this logger to use "OtherStoreReturnSalesDaoImpl.class".(˜ğÜ
+\
+java:S3457."AFormat specifiers should be used instead of string concatenation.(å´ã¹şÿÿÿÿ
+P
+java:S24791":Remove the non-escaped \u0009 character from this literal.(¬Ğ–š
+U
+java:S24792":Remove the non-escaped \u0009 character from this literal.(Ï§üıÿÿÿÿ
+P
+java:S24793":Remove the non-escaped \u0009 character from this literal.(ÙÍí¾
+O
+java:S24795":Remove the non-escaped \u0009 character from this literal.(ç•à
+U
+java:S24797":Remove the non-escaped \u0009 character from this literal.(–Şé¡ùÿÿÿÿ
+\
+java:S3457G"AFormat specifiers should be used instead of string concatenation.(å´ã¹şÿÿÿÿ
+\
+java:S3457X"AFormat specifiers should be used instead of string concatenation.(å´ã¹şÿÿÿÿ
+U
+java:S2479c":Remove the non-escaped \u0009 character from this literal.(ó’Ë’ùÿÿÿÿ
+]
+java:S3457"AFormat specifiers should be used instead of string concatenation.(å´ã¹şÿÿÿÿ

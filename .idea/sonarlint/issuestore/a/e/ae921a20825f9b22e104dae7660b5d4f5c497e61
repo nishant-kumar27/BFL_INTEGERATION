@@ -1,0 +1,89 @@
+
+l
+java:S1192q"JDefine a constant instead of duplicating this literal "pst.count" 8 times.(ö”Éœüÿÿÿÿ8Õµõ»á1
+Œ
+java:S1192|"oDefine a constant instead of duplicating this literal " WHERE NOT EXISTS (SELECT BFL_INVOICE_NO FROM " 4 times.(Ù Ğâ8Õµõ»á1
+˜
+java:S1192C"vDefine a constant instead of duplicating this literal "Error occured while getting the Tran Flag DB details " 3 times.(å´ã¹şÿÿÿÿ8Õµõ»á1
+x
+java:S1192}"VDefine a constant instead of duplicating this literal " and ES.TRAN_TYPE = '" 3 times.(Ÿ£Õ‹øÿÿÿÿ8Õµõ»á1
+j
+java:S1192s"MDefine a constant instead of duplicating this literal "GO_LIVE_DATE" 8 times.(Å„öØ8Õµõ»á1
+i
+java:S1192Ó"LDefine a constant instead of duplicating this literal "Select TOP " 4 times.(Åİ°n8Õµõ»á1
+…
+java:S1192î"gDefine a constant instead of duplicating this literal "BFL_EXP_DATA ES WHERE ES.Exported='Y' " 4 times.(‚‚·‰8Õµõ»á1
+™
+java:S1192x"wDefine a constant instead of duplicating this literal "Error while fetching count from Application properties" 7 times.(İòÚşÿÿÿÿ8Õµõ»á1
+p
+java:S1192>"NDefine a constant instead of duplicating this literal "TRAN_FLAG_DB" 11 times.(„•ìúúÿÿÿÿ8Õµõ»á1
+m	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…8Öµõ»á1
+m	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…8Öµõ»á1
+m	java:S117m"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËšÈÚ8Öµõ»á1
+m	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…8Öµõ»á1
+n	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…8Öµõ»á1
+n	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËšÈÚ8Öµõ»á1
+n	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…8×µõ»á1
+n	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËšÈÚ8×µõ»á1
+n	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…8×µõ»á1
+n	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËšÈÚ8×µõ»á1
+n	java:S117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…8×µõ»á1
+n	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËšÈÚ8×µõ»á1
+n	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…8×µõ»á1
+n	java:S117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËšÈÚ8×µõ»á1
+n	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…8×µõ»á1
+n	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËšÈÚ8×µõ»á1
+n	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…8×µõ»á1
+n	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Õä¦8×µõ»á1
+n	java:S117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËšÈÚ8×µõ»á1
+n	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…8ÁÛ£¼á1
+s	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¾¶ùÿÿÿÿ8×µõ»á1
+‹
+java:S1488€"mImmediately return this expression instead of assigning it to the temporary variable "missingBarcodeDetails".(À”Èô8Øµõ»á1
+‹
+java:S1488Ø"mImmediately return this expression instead of assigning it to the temporary variable "invoiceReprintHistory".(…¿úğ8Øµõ»á1
+€
+java:S1488ò"bImmediately return this expression instead of assigning it to the temporary variable "itemDelete".(ƒ‹°›8Øµõ»á1
+ƒ
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "bflEWalletLog".(×Ìïæ8Øµõ»á1
+„
+java:S1488§"fImmediately return this expression instead of assigning it to the temporary variable "bflGiftCardLog".(Á¤¬È8Øµõ»á1
+’
+java:S1488Â"oImmediately return this expression instead of assigning it to the temporary variable "bflPriceDetailAgeingLog".(Ÿ£àÔıÿÿÿÿ8Øµõ»á1
+
+java:S1488Ü"oImmediately return this expression instead of assigning it to the temporary variable "bflPriceHeaderAgeingLog".(´ÔÏ8Øµõ»á1
+ƒ
+java:S1488ñ"`Immediately return this expression instead of assigning it to the temporary variable "storeDto".(›èŠÌùÿÿÿÿ8Øµõ»á1
+
+java:S1488‹"pImmediately return this expression instead of assigning it to the temporary variable "missingBarcodeHeaderData".(Î«³8Øµõ»á1
+‘
+java:S1488"nImmediately return this expression instead of assigning it to the temporary variable "bflIntegrationDataDTOs".(ÕÁ–˜ùÿÿÿÿ8Øµõ»á1
+Z
+java:S2629‹"7Use the built-in formatting to construct this argument.(½µó†üÿÿÿÿ8Ùµõ»á1
+_
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄŞ8ëµõ»á1
+X	java:S125+"<This block of commented-out lines of code should be removed.(ù“Í8ïµõ»á1
+c
+java:S3457C"AFormat specifiers should be used instead of string concatenation.(å´ã¹şÿÿÿÿ8ïµõ»á1
+c
+java:S3457Z"AFormat specifiers should be used instead of string concatenation.(å´ã¹şÿÿÿÿ8ğµõ»á1
+d
+java:S3457‹"AFormat specifiers should be used instead of string concatenation.(½µó†üÿÿÿÿ8 ¶õ»á1
+d
+java:S3457³"AFormat specifiers should be used instead of string concatenation.(å´ã¹şÿÿÿÿ8‡Ü£¼á1
+]
+java:S2479‡":Remove the non-escaped \u0009 character from this literal.(«²¦Ğûÿÿÿÿ8£¶õ»á1
+X
+java:S2479ˆ":Remove the non-escaped \u0009 character from this literal.(Àæ«·8¤¶õ»á1
+X
+java:S2479‰":Remove the non-escaped \u0009 character from this literal.(›ÏÖŠ8¤¶õ»á1
+Y
+java:S1854ç";Remove this useless assignment to local variable "BFLDATA".(öÕ¶Ö8¦¶õ»á1
+^
+java:S1854ë";Remove this useless assignment to local variable "BFLDATA".(Ç¥ƒùÿÿÿÿ8¦¶õ»á1
+d
+java:S3457ê"AFormat specifiers should be used instead of string concatenation.(ß’İìúÿÿÿÿ8¦¶õ»á1
+Y	java:S125í"<This block of commented-out lines of code should be removed.(ôÅ¹Ö8§¶õ»á1
+X	java:S125ï"<This block of commented-out lines of code should be removed.(¸Ş&8§¶õ»á1
+k
+java:S3986–"HMake sure that week Year "YYYY" is expected here instead of Year "yyyy".(ò¾¶ùÿÿÿÿ8ª¶õ»á1

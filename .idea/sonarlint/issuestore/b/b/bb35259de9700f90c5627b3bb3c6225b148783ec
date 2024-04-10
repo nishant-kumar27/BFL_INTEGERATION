@@ -1,0 +1,165 @@
+
+j	java:S116"PRename this field "BOLNO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÄ¤×øÿÿÿÿ
+l	java:S116"RRename this field "TrnDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø ÿÏÿÿÿÿÿ
+c	java:S116"NRename this field "UPC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û³ÀÊ
+m	java:S116"SRename this field "DeptName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨§¢Ôùÿÿÿÿ
+m	java:S116"SRename this field "ItemName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¸âòüÿÿÿÿ
+o	java:S116"URename this field "OrgRetRate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó“‘ıÿÿÿÿ
+m	java:S116"SRename this field "Itemcode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘µÏˆúÿÿÿÿ
+k	java:S116"QRename this field "UserID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó«Òüüÿÿÿÿ
+h	java:S116"SRename this field "ItemType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãŒõ®
+j	java:S116"URename this field "ShortSkirt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¸Ğ¤
+q	java:S116"WRename this field "ShortUpdated" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ŞÇ¼øÿÿÿÿ
+e	java:S116!"PRename this field "Size1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÖÚÏ
+p	java:S116'"VRename this field "SizeUpdated" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üªœêşÿÿÿÿ
+l	java:S116)"XRename this field "WinterUpdated" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Û,
+i	java:S116+"TRename this field "SizeCheck" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä„•Ë
+g	java:S116-"RRename this field "DHSCost" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìë¢´
+o	java:S116/"URename this field "ClientCost" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òéÄÑıÿÿÿÿ
+k	java:S1161"QRename this field "Vendor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Íåşÿÿÿÿÿ
+n	java:S1163"TRename this field "GroupCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­íç—øÿÿÿÿ
+e	java:S1165"PRename this field "Color" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÜÊ·
+j	java:S1167"PRename this field "Style" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë Äøÿÿÿÿ
+j	java:S116;"PRename this field "TYPE1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¸‹Üÿÿÿÿÿ
+f	java:S116="QRename this field "GENDER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÛÈÍ
+r	java:S116?"XRename this field "CountryOrigin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Õ¦ãÿÿÿÿÿ
+h	java:S116A"SRename this field "Material" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¯Ç´
+k	java:S116E"QRename this field "HSCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ­Ùøÿÿÿÿ
+p	java:S116G"VRename this field "RRPCurrency" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¼Á şÿÿÿÿ
+h	java:S116c"SRename this field "COSTCURR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û…Ê®
+v
+java:S1450"TRemove the "BOLNO" field and declare it as a local variable in the relevant methods.(öÄ¤×øÿÿÿÿ8ÿŞ¦…ä1
+t
+java:S1450c"WRemove the "COSTCURR" field and declare it as a local variable in the relevant methods.(Û…Ê®8–Ÿ…ä1
+{
+java:S1450/"YRemove the "ClientCost" field and declare it as a local variable in the relevant methods.(òéÄÑıÿÿÿÿ8Ò„¤…ä1
+~
+java:S1450?"\Remove the "CountryOrigin" field and declare it as a local variable in the relevant methods.(…Õ¦ãÿÿÿÿÿ8è¢…ä1
+s
+java:S1450-"VRemove the "DHSCost" field and declare it as a local variable in the relevant methods.(Ìë¢´8ï ¤…ä1
+r
+java:S1450="URemove the "GENDER" field and declare it as a local variable in the relevant methods.(ÜÛÈÍ8îƒ£…ä1
+w
+java:S1450E"URemove the "HSCode" field and declare it as a local variable in the relevant methods.(ÿ­Ùøÿÿÿÿ8à‰¢…ä1
+t
+java:S1450"WRemove the "ItemType" field and declare it as a local variable in the relevant methods.(ãŒõ®8ÀÖ¥…ä1
+t
+java:S1450A"WRemove the "Material" field and declare it as a local variable in the relevant methods.(†¯Ç´8®È¢…ä1
+{
+java:S1450"YRemove the "OrgRetRate" field and declare it as a local variable in the relevant methods.(Ó“‘ıÿÿÿÿ8ş¤¦…ä1
+|
+java:S1450G"ZRemove the "RRPCurrency" field and declare it as a local variable in the relevant methods.(Š¼Á şÿÿÿÿ8¥ç¡…ä1
+v
+java:S1450"YRemove the "ShortSkirt" field and declare it as a local variable in the relevant methods.(Ï¸Ğ¤8ñ»¥…ä1
+}
+java:S1450"[Remove the "ShortUpdated" field and declare it as a local variable in the relevant methods.(©ŞÇ¼øÿÿÿÿ8¥¡¥…ä1
+q
+java:S1450!"TRemove the "Size1" field and declare it as a local variable in the relevant methods.(ÓÖÚÏ8á†¥…ä1
+u
+java:S1450+"XRemove the "SizeCheck" field and declare it as a local variable in the relevant methods.(ä„•Ë8±»¤…ä1
+|
+java:S1450'"ZRemove the "SizeUpdated" field and declare it as a local variable in the relevant methods.(Üªœêşÿÿÿÿ8èë¤…ä1
+v
+java:S1450;"TRemove the "TYPE1" field and declare it as a local variable in the relevant methods.(Ğ¸‹Üÿÿÿÿÿ8Ï£…ä1
+w
+java:S1450"URemove the "UserID" field and declare it as a local variable in the relevant methods.(Ó«Òüüÿÿÿÿ8Î…¦…ä1
+x
+java:S1450)"\Remove the "WinterUpdated" field and declare it as a local variable in the relevant methods.(²Û,8ëÒ¤…ä1
+|
+java:S1450a"ZRemove the "dHSSalesAdj" field and declare it as a local variable in the relevant methods.(íÖ¶Ëøÿÿÿÿ8¾µŸ…ä1
+|
+java:S1450_"ZRemove the "dhsSalesOrg" field and declare it as a local variable in the relevant methods.(…«ñ´ùÿÿÿÿ8ÔÙŸ…ä1
+{
+java:S1450Q"YRemove the "genBarcode" field and declare it as a local variable in the relevant methods.(ÄÏ÷¥üÿÿÿÿ8¿ù …ä1
+u
+java:S1450e"YRemove the "itemIssued" field and declare it as a local variable in the relevant methods.(Õ»ìR8Ğû…ä1
+|
+java:S1450q"_Remove the "loadManifestType" field and declare it as a local variable in the relevant methods.(õ‘šı8¬¶…ä1
+|
+java:S1450k"ZRemove the "orgRetExcel" field and declare it as a local variable in the relevant methods.(ã„³úúÿÿÿÿ8Â…ä1
+x
+java:S1450Y"VRemove the "orgcost" field and declare it as a local variable in the relevant methods.(‹¬ù¾úÿÿÿÿ8© …ä1
+w
+java:S1450S"URemove the "orgqty" field and declare it as a local variable in the relevant methods.(¬œäÿÿÿÿÿ8“İ …ä1
+z
+java:S1450U"XRemove the "orgretail" field and declare it as a local variable in the relevant methods.(Îèœ™ùÿÿÿÿ8²Ä …ä1
+~
+java:S1450m"aRemove the "salesPriceCurrency" field and declare it as a local variable in the relevant methods.(¾û¯8¬î…ä1
+w
+java:S1450O"URemove the "season" field and declare it as a local variable in the relevant methods.(š¸ğËıÿÿÿÿ8÷¡…ä1
+x
+java:S1450o"VRemove the "splitPO" field and declare it as a local variable in the relevant methods.(ƒ¨¥Üıÿÿÿÿ8ˆÏ…ä1
+}
+java:S1450["[Remove the "totalorgcost" field and declare it as a local variable in the relevant methods.(Ò‡èçÿÿÿÿÿ8®úŸ…ä1
+|
+java:S1450W"ZRemove the "totalretail" field and declare it as a local variable in the relevant methods.(ºÆÇ³ûÿÿÿÿ8ş§ …ä1
+r
+java:S1450I"URemove the "upload" field and declare it as a local variable in the relevant methods.( ÎÃ§8¬°¡…ä1
+K
+java:S1068")Remove this unused "BOLNO" private field.(öÄ¤×øÿÿÿÿ8ß¦…ä1
+P
+java:S1068".Remove this unused "OrgRetRate" private field.(Ó“‘ıÿÿÿÿ8¥¦…ä1
+L
+java:S1068"*Remove this unused "UserID" private field.(Ó«Òüüÿÿÿÿ8×…¦…ä1
+I
+java:S1068",Remove this unused "ItemType" private field.(ãŒõ®8ÊÖ¥…ä1
+K
+java:S1068".Remove this unused "ShortSkirt" private field.(Ï¸Ğ¤8ø»¥…ä1
+R
+java:S1068"0Remove this unused "ShortUpdated" private field.(©ŞÇ¼øÿÿÿÿ8¶¡¥…ä1
+F
+java:S1068!")Remove this unused "Size1" private field.(ÓÖÚÏ8û†¥…ä1
+Q
+java:S1068'"/Remove this unused "SizeUpdated" private field.(Üªœêşÿÿÿÿ8÷ë¤…ä1
+M
+java:S1068)"1Remove this unused "WinterUpdated" private field.(²Û,8ôÒ¤…ä1
+J
+java:S1068+"-Remove this unused "SizeCheck" private field.(ä„•Ë8¸»¤…ä1
+H
+java:S1068-"+Remove this unused "DHSCost" private field.(Ìë¢´8ù ¤…ä1
+P
+java:S1068/".Remove this unused "ClientCost" private field.(òéÄÑıÿÿÿÿ8ê„¤…ä1
+K
+java:S1068;")Remove this unused "TYPE1" private field.(Ğ¸‹Üÿÿÿÿÿ8×£…ä1
+G
+java:S1068="*Remove this unused "GENDER" private field.(ÜÛÈÍ8öƒ£…ä1
+S
+java:S1068?"1Remove this unused "CountryOrigin" private field.(…Õ¦ãÿÿÿÿÿ8«è¢…ä1
+I
+java:S1068A",Remove this unused "Material" private field.(†¯Ç´8ÁÈ¢…ä1
+L
+java:S1068E"*Remove this unused "HSCode" private field.(ÿ­Ùøÿÿÿÿ8í‰¢…ä1
+Q
+java:S1068G"/Remove this unused "RRPCurrency" private field.(Š¼Á şÿÿÿÿ8´ç¡…ä1
+G
+java:S1068I"*Remove this unused "upload" private field.( ÎÃ§8Á°¡…ä1
+L
+java:S1068O"*Remove this unused "season" private field.(š¸ğËıÿÿÿÿ8ƒ‘¡…ä1
+P
+java:S1068Q".Remove this unused "genBarcode" private field.(ÄÏ÷¥üÿÿÿÿ8Çù …ä1
+L
+java:S1068S"*Remove this unused "orgqty" private field.(¬œäÿÿÿÿÿ8£İ …ä1
+O
+java:S1068U"-Remove this unused "orgretail" private field.(Îèœ™ùÿÿÿÿ8ÊÄ …ä1
+Q
+java:S1068W"/Remove this unused "totalretail" private field.(ºÆÇ³ûÿÿÿÿ8¨ …ä1
+M
+java:S1068Y"+Remove this unused "orgcost" private field.(‹¬ù¾úÿÿÿÿ8² …ä1
+R
+java:S1068["0Remove this unused "totalorgcost" private field.(Ò‡èçÿÿÿÿÿ8¹úŸ…ä1
+Q
+java:S1068_"/Remove this unused "dhsSalesOrg" private field.(…«ñ´ùÿÿÿÿ8ìÙŸ…ä1
+Q
+java:S1068a"/Remove this unused "dHSSalesAdj" private field.(íÖ¶Ëøÿÿÿÿ8ÆµŸ…ä1
+I
+java:S1068c",Remove this unused "COSTCURR" private field.(Û…Ê®8˜–Ÿ…ä1
+J
+java:S1068e".Remove this unused "itemIssued" private field.(Õ»ìR8Úû…ä1
+Q
+java:S1068k"/Remove this unused "orgRetExcel" private field.(ã„³úúÿÿÿÿ8Î…ä1
+S
+java:S1068m"6Remove this unused "salesPriceCurrency" private field.(¾û¯8¹î…ä1
+M
+java:S1068o"+Remove this unused "splitPO" private field.(ƒ¨¥Üıÿÿÿÿ8šÏ…ä1
+Q
+java:S1068q"4Remove this unused "loadManifestType" private field.(õ‘šı8Ù¶…ä1

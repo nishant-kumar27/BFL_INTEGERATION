@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity3">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<link rel="stylesheet" type="text/css"
+	th:href="@{/webjars/bootstrap/3.3.7/css/bootstrap.min.css}" />
+
+<title>Edit Job</title>
+</head>
+<body>
+	<div th:replace="header :: header"></div>
+
+	<div class="container thumbnail">
+		<div class="row">
+			<div class="col-md-6 col-md-offset-3">
+
+				<div th:if="${message}">
+					<div class="alert alert-info"><span th:text="${message}"></span></div>
+				</div>
+
+				<h1>Job Detail</h1>
+				<form th:action="@{/jobs/updateJob}" th:object="${job}"
+					method="post">
+
+					<p class="error-message" th:if="${#fields.hasGlobalErrors()}"
+						th:each="error : ${#fields.errors('global')}" th:text="${error}">Validation
+						error</p>
+
+					<div class="form-group">
+						<label for="jobId" class="control-label">JobId</label> <input
+							id="jobId" class="form-control" th:field="*{jobId}" readonly="readonly"  />
+					</div>
+					<div class="form-group">
+						<label for="jobName" class="control-label">JobName</label> <input
+							id="jobName" class="form-control" th:field="*{jobName}" readonly="readonly" />
+					</div>
+					<!-- <div class="form-group">
+						<label for="alertMailRecipients" class="control-label">Mail Recipients(comma , separated)</label> 
+						<textarea rows = "2" id="alertMailRecipients" class="form-control" th:field="*{alertMailRecipients}"></textarea>
+					</div> -->
+					<div class="form-group">
+						<label for="alertEmailSubject" class="control-label">Alert Mail Subject</label> <input
+							id="alertEmailSubject" class="form-control" th:field="*{alertEmailSubject}" />
+					</div>
+					<div class="form-group"
+						th:classappend="${#fields.hasErrors('cronExpression')}? 'has-error':''">
+						<label for="cronExpression" class="control-label">Cron Expression</label> <input
+							id="cronExpression" class="form-control" th:field="*{cronExpression}" onblur="this.form.submit()" />
+						<p class="error-message"
+							th:each="error : ${#fields.errors('cronExpression')}" th:text="${error}">Validation
+							error</p>
+					</div>
+					<div class="form-group">
+						<label for="cronDescription" class="control-label">Cron Description</label>
+						<input id="cronDescription" class="form-control"
+							th:field="*{cronDescription}" readonly="readonly"/>
+					</div>
+					<div class="form-group">
+						<label for="enabled" class="control-label">Status</label> <select
+							th:field="*{enabled}" class="form-control">
+							<option th:value="true" th:text="Enabled"></option>
+							<option th:value="false" th:text="Disabled"></option>
+						</select>
+					</div>
+					<!-- <div class="form-group">
+						<label for="priorityAlertsEnabled" class="control-label">Priority Alerts</label> <select
+							th:field="*{priorityAlertsEnabled}" class="form-control">
+							<option th:value="true" th:text="Enabled"></option>
+							<option th:value="false" th:text="Disabled"></option>
+						</select>
+					</div> -->
+					<div class="form-group" align="center">
+						<div class="row">
+							<a th:href="@{/jobManager}"><input type="button" class="btn btn-primary" value="Back" /></a>
+							<input sec:authorize="hasAnyAuthority('ADMIN')" type="submit" name="updateJob" id="updateJob" class="btn btn-primary" value="Submit" />
+						</div>
+					</div>
+
+				</form>
+			</div>
+		</div>
+	</div>
+
+
+	<script type="text/javascript"
+		th:src="@{/webjars/jquery/3.2.1/jquery.min.js/}"></script>
+	<script type="text/javascript"
+		th:src="@{/webjars/bootstrap/3.3.7/js/bootstrap.min.js}"></script>
+
+</body>
+</html>

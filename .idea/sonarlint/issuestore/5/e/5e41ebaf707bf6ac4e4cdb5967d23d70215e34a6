@@ -1,0 +1,9 @@
+
+†
+java:S1488"pImmediately return this expression instead of assigning it to the temporary variable "dailyStoreClosingDetails".(¶‘¾°
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+n
+java:S2139"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾
+W
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ãŒ•

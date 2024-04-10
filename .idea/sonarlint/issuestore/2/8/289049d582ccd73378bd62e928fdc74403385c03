@@ -1,0 +1,15 @@
+
+n	java:S116"TRename this field "InvoiceNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×·Å°şÿÿÿÿ
+m	java:S116"SRename this field "ItemCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÄê¹øÿÿÿÿ
+h	java:S116	"SRename this field "Quantity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¦•ê
+i	java:S116"ORename this field "Rate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶‹¿úùÿÿÿÿ
+h	java:S116"SRename this field "Discount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¬¹¡
+e	java:S116"QRename this field "QuotNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àƒá
+h	java:S116"SRename this field "UnitCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó›Ë’
+e	java:S116"PRename this field "TrfNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¤æ
+i	java:S116"ORename this field "RFID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÊÛÉúÿÿÿÿ
+d	java:S116"ORename this field "MRow" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ã“›
+g	java:S116"RRename this field "BatchNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ï–š
+h	java:S116"SRename this field "BasicQty" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïĞ•À
+i	java:S116"TRename this field "BasicRate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ö¿Å
+n	java:S116"TRename this field "SReturnNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ü‰èùÿÿÿÿ

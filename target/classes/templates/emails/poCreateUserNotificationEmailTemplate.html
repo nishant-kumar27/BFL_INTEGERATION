@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity3">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+<title>PO Create notification Email Template</title>
+</head>
+<body>
+
+	<div class="container thumbnail">
+		<div th:if="${ALERT_TYPE}==2">
+			<div th:if="${packageError}">
+				<h3>Error occurred while creating Purchase Order</h3>
+				<div class="pre-scrollable">
+					<p style="text-align: left;">
+						<span th:text="${packageError}"></span>
+					</p>
+
+				</div>
+			</div>
+			<div th:if="${importErrors.size()}>0">
+				<h3>Below validations failed while creating PO for assortment</h3>
+				<div class="pre-scrollable">
+					<table border="1" style="border-collapse: collapse;">
+						<thead>
+							<tr>
+								<th style="text-align: left; width: 1000px">ERROR</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr th:each="error : *{importErrors}">
+								<td th:text="${error}" />
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+		<div th:if="${ALERT_TYPE}==3">
+			<div th:if="${packageError}">
+				<h3>Error occurred while creating Purchase Order</h3>
+				<div class="pre-scrollable">
+					<p style="text-align: left;">
+						<span th:text="${packageError}"></span>
+					</p>
+
+				</div>
+			</div>
+			<br />
+			<div th:if="${error}">
+				<h3>Some program error occurred while creating Purchase Order</h3>
+				<div class="pre-scrollable">
+					<p style="text-align: left;">
+						<span th:text="${error}"></span>
+					</p>
+
+				</div>
+			</div>
+			<br />
+			<div th:if="${importErrors.size()}>0">
+				<h3>Error occurred while creating PO for assortment:</h3>
+				<div class="pre-scrollable">
+					<table border="1" style="border-collapse: collapse;">
+						<thead>
+							<tr>
+								<th style="text-align: left; width: 1000px">ERROR</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr th:each="error : *{importErrors}">
+								<td th:text="${error}" />
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+		<div th:if="${ALERT_TYPE}==1">
+				<h3>PO has been created successfully</h3>
+				<h4>PO Number: <span th:text="${ordernumber}"></span></h4>
+			</div>
+			<br/>
+	</div>
+
+</body>
+</html>

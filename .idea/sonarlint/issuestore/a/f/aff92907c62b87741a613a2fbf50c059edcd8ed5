@@ -1,0 +1,13 @@
+
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+b
+java:S1871!"LThis branch's code block is the same as the block for the branch on line 31.(™íµº
+n
+java:S2139%"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾
+\
+java:S3457&"AFormat specifiers should be used instead of string concatenation.(°…Š‹ıÿÿÿÿ
+[
+java:S1155H">Use isEmpty() to check whether the collection is empty or not.(ñ‡ùå8†“Äá1

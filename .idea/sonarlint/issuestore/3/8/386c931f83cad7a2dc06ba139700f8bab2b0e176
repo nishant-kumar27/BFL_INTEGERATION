@@ -1,0 +1,272 @@
+
+g	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(šùºÕüÿÿÿÿ8¥÷ãÅá1
+c	java:S112Ë"FDefine and throw a dedicated exception instead of using a generic one.(†ıœÆ8¨÷ãÅá1
+h	java:S112¬"FDefine and throw a dedicated exception instead of using a generic one.(ÃñÂÉûÿÿÿÿ8«÷ãÅá1
+]
+java:S1192š"GDefine a constant instead of duplicating this literal "VOUCH" 20 times.(Æªác
+_
+java:S1192³"HDefine a constant instead of duplicating this literal "RETURN" 11 times.(Ú²Çê
+h
+java:S1192g"RDefine a constant instead of duplicating this literal "CURRENCY_ROUNDING" 3 times.(½û¼ˆ
+j
+java:S1192U"TDefine a constant instead of duplicating this literal "yyyy-MM-dd HH:mm:ss" 3 times.(ï¨àŞ
+b
+java:S1192‘"FDefine a constant instead of duplicating this literal "10010" 7 times.(üæ”êÿÿÿÿÿ
+a
+java:S1192D"FDefine a constant instead of duplicating this literal "FHEAD" 3 times.(ÀæÏşÿÿÿÿ
+b
+java:S1192»"FDefine a constant instead of duplicating this literal "CCARD" 5 times.(Ë¬©‰üÿÿÿÿ
+a
+java:S1192}"FDefine a constant instead of duplicating this literal "TITEM" 3 times.(†‘›­şÿÿÿÿ
+_
+java:S1192K"IDefine a constant instead of duplicating this literal "yyyyMMdd" 3 times.(‡‰Ÿ­
+d
+java:S1192’"HDefine a constant instead of duplicating this literal "OTHERS" 13 times.(€ñÙüøÿÿÿÿ
+\
+java:S1192Z"FDefine a constant instead of duplicating this literal "THEAD" 3 times.(ÃÆó¡
+b
+java:S1192«"FDefine a constant instead of duplicating this literal "10000" 6 times.(ë´ºÿúÿÿÿÿ
+j
+java:S1192V"ODefine a constant instead of duplicating this literal "yyyyMMddHHMMSS" 3 times.(ö§‰ÿÿÿÿÿ
+f
+java:S1192J"KDefine a constant instead of duplicating this literal "yyyy-MM-dd" 3 times.(Øæ¶…ÿÿÿÿÿ
+c
+java:S1192“"GDefine a constant instead of duplicating this literal "TTEND" 41 times.(Ç†Ã“ÿÿÿÿÿ
+v
+java:S1488î"_Immediately return this expression instead of assigning it to the temporary variable "trndate".(ëóä
+S
+java:S2629Ó"7Use the built-in formatting to construct this argument.(æß²¨úÿÿÿÿ
+X
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813*"BRemove this field injection and use constructor injection instead.(êæÄŞ
+m
+java:S3776/"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(šùºÕüÿÿÿÿ
+V	java:S125Q"<This block of commented-out lines of code should be removed.(¬±Œğûÿÿÿÿ
+V	java:S125S"<This block of commented-out lines of code should be removed.(‡¢ÿ€ûÿÿÿÿ
+V	java:S125a"<This block of commented-out lines of code should be removed.(óÜŠÿÿÿÿÿ
+_
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ËµÆÿ8“‰äÅá1
+_
+java:S3457‚"AFormat specifiers should be used instead of string concatenation.(½ÆîŠ8–‰äÅá1
+W	java:S125…"<This block of commented-out lines of code should be removed.(ïú¿†ÿÿÿÿÿ
+\
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(¤Òş®8‰äÅá1
+R	java:S125"<This block of commented-out lines of code should be removed.(‰¡ñ¤
+Q	java:S125¡"<This block of commented-out lines of code should be removed.(Œ·
+W	java:S125£"<This block of commented-out lines of code should be removed.(–¸Ãûûÿÿÿÿ
+[
+java:S3358À"DExtract this nested ternary operation into an independent statement.(Ğ¨Õ°
+q
+java:S3776ò"SRefactor this method to reduce its Cognitive Complexity from 250 to the 15 allowed.(±Öñ°8üôçÅá1
+m
+java:S1854œ"JRemove this useless assignment to local variable "tenderTblforCreditNote".(€¦Á×øÿÿÿÿ8õçÅá1
+q
+java:S1172ò"SRemove these unused method parameters "tenderTypeIdForCash", "tenderTypeIdForCard".(±Öñ°8ƒõçÅá1
+^	java:S125ó"<This block of commented-out lines of code should be removed.(ãâÅ†ûÿÿÿÿ8„õçÅá1
+Y	java:S125ö"<This block of commented-out lines of code should be removed.(ßßß8…õçÅá1
+Y	java:S125‚"<This block of commented-out lines of code should be removed.(„€’•8ˆõçÅá1
+\
+java:S1155†">Use isEmpty() to check whether the collection is empty or not.(†Ù³Œ8ˆõçÅá1
+^	java:S125‹"<This block of commented-out lines of code should be removed.(ïãØûÿÿÿÿ8ŠõçÅá1
+d
+java:S3457"AFormat specifiers should be used instead of string concatenation.(»”ŞÛÿÿÿÿÿ8õçÅá1
+d
+java:S3457™"AFormat specifiers should be used instead of string concatenation.(æ„àüÿÿÿÿ8õçÅá1
+f
+java:S5361¨"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¾µÖ8’õçÅá1
+f
+java:S5361¨"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¾µÖ8“õçÅá1
+^
+java:S3457®"AFormat specifiers should be used instead of string concatenation.(ú–ä-8”õçÅá1
+d
+java:S3457²"AFormat specifiers should be used instead of string concatenation.(ï‰Çàşÿÿÿÿ8•õçÅá1
+f
+java:S5361À"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¾µÖ8˜õçÅá1
+f
+java:S5361À"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¾µÖ8™õçÅá1
+d
+java:S3457Ä"AFormat specifiers should be used instead of string concatenation.(ôÕë¯ûÿÿÿÿ8šõçÅá1
+d
+java:S3457É"AFormat specifiers should be used instead of string concatenation.(Ë©·íÿÿÿÿÿ8›õçÅá1
+d
+java:S3457×"AFormat specifiers should be used instead of string concatenation.(ùæšÜùÿÿÿÿ8ŸõçÅá1
+d
+java:S3457ä"AFormat specifiers should be used instead of string concatenation.(¯š¢“üÿÿÿÿ8 õçÅá1
+d
+java:S3457æ"AFormat specifiers should be used instead of string concatenation.(Ú£şÿÿÿÿ8¡õçÅá1
+d
+java:S3457ô"AFormat specifiers should be used instead of string concatenation.(¯š¢“üÿÿÿÿ8£õçÅá1
+_
+java:S3457ö"AFormat specifiers should be used instead of string concatenation.(ä¬±Ã8£õçÅá1
+d
+java:S3457"AFormat specifiers should be used instead of string concatenation.(¯š¢“üÿÿÿÿ8¦õçÅá1
+_
+java:S3457ƒ"AFormat specifiers should be used instead of string concatenation.(ë„„ú8§õçÅá1
+d
+java:S3457"AFormat specifiers should be used instead of string concatenation.(¯š¢“üÿÿÿÿ8©õçÅá1
+d
+java:S3457"AFormat specifiers should be used instead of string concatenation.(¡ùş‰ùÿÿÿÿ8©õçÅá1
+^	java:S125—"<This block of commented-out lines of code should be removed.(ÚÓ¡·üÿÿÿÿ8ªõçÅá1
+d
+java:S3457Ÿ"AFormat specifiers should be used instead of string concatenation.(­›¯¸øÿÿÿÿ8®õçÅá1
+\
+java:S1155©">Use isEmpty() to check whether the collection is empty or not.(º¥¬°8°õçÅá1
+f
+java:S5361®"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¾µÖ8±õçÅá1
+f
+java:S5361®"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¾µÖ8³õçÅá1
+d
+java:S3457²"AFormat specifiers should be used instead of string concatenation.(ÍºÈùÿÿÿÿ8¶õçÅá1
+d
+java:S3457·"AFormat specifiers should be used instead of string concatenation.(Öˆêôøÿÿÿÿ8·õçÅá1
+f
+java:S5361¸"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Á´ßÊ8¸õçÅá1
+f
+java:S5361¹"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Èú¡ƒ8İÓçÅá1
+f
+java:S5361¹"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Èú¡ƒ8¬ÔçÅá1
+_
+java:S3457Ä"AFormat specifiers should be used instead of string concatenation.(¿Ä´¢8¾õçÅá1
+k
+java:S5361Æ"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÚâğÁûÿÿÿÿ8ÀõçÅá1
+k
+java:S5361Æ"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÚâğÁûÿÿÿÿ8ÁõçÅá1
+d
+java:S3457Ô"AFormat specifiers should be used instead of string concatenation.(ùæšÜùÿÿÿÿ8ÅõçÅá1
+d
+java:S3457à"AFormat specifiers should be used instead of string concatenation.(¯š¢“üÿÿÿÿ8ÈõçÅá1
+d
+java:S3457â"AFormat specifiers should be used instead of string concatenation.(Ú£şÿÿÿÿ8ÉõçÅá1
+f
+java:S5361ó"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¾µÖ8ÌõçÅá1
+f
+java:S5361ó"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¾µÖ8ÍõçÅá1
+d
+java:S3457ö"AFormat specifiers should be used instead of string concatenation.(ôÕë¯ûÿÿÿÿ8ÏõçÅá1
+d
+java:S3457û"AFormat specifiers should be used instead of string concatenation.(Ë©·íÿÿÿÿÿ8ÑõçÅá1
+^	java:S125"<This block of commented-out lines of code should be removed.(ÚÓ¡·üÿÿÿÿ8ÓõçÅá1
+f
+java:S5361“"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¾µÖ8ÔõçÅá1
+f
+java:S5361“"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¾µÖ8ÕõçÅá1
+d
+java:S3457—"AFormat specifiers should be used instead of string concatenation.(Çç•äøÿÿÿÿ8ØõçÅá1
+d
+java:S3457¤"AFormat specifiers should be used instead of string concatenation.(Ìì§Öşÿÿÿÿ8ÚõçÅá1
+d
+java:S3457®"AFormat specifiers should be used instead of string concatenation.(­›¯¸øÿÿÿÿ8ÜõçÅá1
+Y	java:S125±"<This block of commented-out lines of code should be removed.(†Ïº¶8ßõçÅá1
+d
+java:S3457»"AFormat specifiers should be used instead of string concatenation.(ï‰Çàşÿÿÿÿ8áõçÅá1
+\
+java:S1155Ã">Use isEmpty() to check whether the collection is empty or not.(º¥¬°8åõçÅá1
+f
+java:S5361È"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¾µÖ8èõçÅá1
+f
+java:S5361È"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¾µÖ8éõçÅá1
+d
+java:S3457Ë"AFormat specifiers should be used instead of string concatenation.(ÍºÈùÿÿÿÿ8êõçÅá1
+d
+java:S3457Ğ"AFormat specifiers should be used instead of string concatenation.(Öˆêôøÿÿÿÿ8ìõçÅá1
+f
+java:S5361Ñ"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Á´ßÊ8îõçÅá1
+f
+java:S5361Ò"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Èú¡ƒ8ñõçÅá1
+f
+java:S5361Ò"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Èú¡ƒ8òõçÅá1
+_
+java:S3457Ü"AFormat specifiers should be used instead of string concatenation.(¿Ä´¢8óõçÅá1
+k
+java:S5361Ş"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÚâğÁûÿÿÿÿ8ôõçÅá1
+k
+java:S5361Ş"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÚâğÁûÿÿÿÿ8õõçÅá1
+d
+java:S3457í"AFormat specifiers should be used instead of string concatenation.(ùæšÜùÿÿÿÿ8öõçÅá1
+d
+java:S3457ú"AFormat specifiers should be used instead of string concatenation.(¯š¢“üÿÿÿÿ8øõçÅá1
+d
+java:S3457ü"AFormat specifiers should be used instead of string concatenation.(Ú£şÿÿÿÿ8øõçÅá1
+d
+java:S3457‹"AFormat specifiers should be used instead of string concatenation.(Ë©·íÿÿÿÿÿ8ùõçÅá1
+d
+java:S3457—"AFormat specifiers should be used instead of string concatenation.(¯š¢“üÿÿÿÿ8ûõçÅá1
+_
+java:S3457™"AFormat specifiers should be used instead of string concatenation.(ä¬±Ã8ûõçÅá1
+d
+java:S3457¤"AFormat specifiers should be used instead of string concatenation.(¯š¢“üÿÿÿÿ8ıõçÅá1
+_
+java:S3457¦"AFormat specifiers should be used instead of string concatenation.(ë„„ú8ıõçÅá1
+d
+java:S3457±"AFormat specifiers should be used instead of string concatenation.(¯š¢“üÿÿÿÿ8ÿõçÅá1
+d
+java:S3457³"AFormat specifiers should be used instead of string concatenation.(¡ùş‰ùÿÿÿÿ8€öçÅá1
+Y	java:S125½"<This block of commented-out lines of code should be removed.(ó’ˆş8ƒöçÅá1
+d
+java:S3457¿"AFormat specifiers should be used instead of string concatenation.(­›¯¸øÿÿÿÿ8ƒöçÅá1
+p
+java:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(†ıœÆ8†öçÅá1
+d
+java:S3457Ó"AFormat specifiers should be used instead of string concatenation.(æß²¨úÿÿÿÿ8‡öçÅá1
+Y	java:S125ç"<This block of commented-out lines of code should be removed.(¥úµ£8‰öçÅá1
+Y	java:S125ï"<This block of commented-out lines of code should be removed.(ºÔÂ¶8‹öçÅá1
+Y	java:S125õ"<This block of commented-out lines of code should be removed.(Û™­†8‹öçÅá1
+Y	java:S125ı"<This block of commented-out lines of code should be removed.(Â™§8ŒöçÅá1
+Y	java:S125Œ"<This block of commented-out lines of code should be removed.(şßƒ8öçÅá1
+_
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ËµÆÿ8öçÅá1
+_
+java:S3457"AFormat specifiers should be used instead of string concatenation.(½ÆîŠ8ĞÔçÅá1
+^	java:S125Ÿ"<This block of commented-out lines of code should be removed.(ò°è…üÿÿÿÿ8‘öçÅá1
+^	java:S125¤"<This block of commented-out lines of code should be removed.(ïú¿†ÿÿÿÿÿ8‘öçÅá1
+^	java:S125§"<This block of commented-out lines of code should be removed.(÷çó­ûÿÿÿÿ8’öçÅá1
+d
+java:S3457µ"AFormat specifiers should be used instead of string concatenation.(Ï¢ğûøÿÿÿÿ8“öçÅá1
+\
+java:S1155º">Use isEmpty() to check whether the collection is empty or not.(¤Òş®8”öçÅá1
+u
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ğ†´øÿÿÿÿ8˜öçÅá1
+v
+java:S1172Ó"SRemove these unused method parameters "tenderTypeIdForCash", "tenderTypeIdForCard".(ğ†´øÿÿÿÿ8™öçÅá1
+_
+java:S3457Õ"AFormat specifiers should be used instead of string concatenation.(¿ßì…8šöçÅá1
+\
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(†Ù³Œ8ŸöçÅá1
+u
+java:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÃñÂÉûÿÿÿÿ8¥öçÅá1
+Y	java:S125Å"<This block of commented-out lines of code should be removed.(¥úµ£8¯öçÅá1
+^	java:S125Û"<This block of commented-out lines of code should be removed.( £’–ûÿÿÿÿ8µöçÅá1
+^	java:S125Ş"<This block of commented-out lines of code should be removed.(ªã»ğøÿÿÿÿ8¶öçÅá1
+Y	java:S125á"<This block of commented-out lines of code should be removed.(Û™­†8·öçÅá1
+Y	java:S125é"<This block of commented-out lines of code should be removed.(Â™§8¸öçÅá1
+^	java:S125…"<This block of commented-out lines of code should be removed.(ò°è…üÿÿÿÿ8¼öçÅá1
+_
+java:S3457‡"AFormat specifiers should be used instead of string concatenation.(ËµÆÿ8½öçÅá1
+_
+java:S3457ˆ"AFormat specifiers should be used instead of string concatenation.(½ÆîŠ8‡ÕçÅá1
+^	java:S125Œ"<This block of commented-out lines of code should be removed.(ïú¿†ÿÿÿÿÿ8¾öçÅá1
+^	java:S125"<This block of commented-out lines of code should be removed.(÷çó­ûÿÿÿÿ8¿öçÅá1
+\
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(¤Òş®8ÁöçÅá1
+Y	java:S125­"<This block of commented-out lines of code should be removed.(‰¡ñ¤8ÃöçÅá1
+u
+java:S3776º"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÌÄÏÃüÿÿÿÿ8ÅöçÅá1
+a
+java:S1155É">Use isEmpty() to check whether the collection is empty or not.(ìàİŞıÿÿÿÿ8ÇöçÅá1
+\
+java:S1155Û">Use isEmpty() to check whether the collection is empty or not.(×áï¬8ÉöçÅá1
+o
+java:S1128"MRemove this unused import 'com.bfl.gencode.resa.sales.TransactionPaymentTbl'.(Îœ¨şÿÿÿÿ8™ÕçÅá1
+f
+java:S1128"IRemove this unused import 'com.bfl.gencode.resa.sales.TransactionTaxTbl'.(«½ç˜8 ¸çÅá1
+æ
+java:S6541ò"ÇA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 443 to 64, Complexity from 153 to 14, Nesting Level from 6 to 2, Number of Variables from 62 to 6.(±Öñ°8ÒöçÅá1
+é
+java:S6541Ó"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 87 to 64, Complexity from 18 to 14, Nesting Level from 4 to 2, Number of Variables from 18 to 6.(ğ†´øÿÿÿÿ8ÓöçÅá1
+é
+java:S6541¬"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 96 to 64, Complexity from 15 to 14, Nesting Level from 4 to 2, Number of Variables from 32 to 6.(ÃñÂÉûÿÿÿÿ8ÔöçÅá1

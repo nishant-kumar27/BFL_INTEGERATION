@@ -1,0 +1,40 @@
+
+k	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¶Ûåıÿÿÿÿ
+f	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…
+f	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶§…
+Y
+java:S26298"7Use the built-in formatting to construct this argument.(ßÓü±şÿÿÿÿ8Î·­Áá1
+Y
+java:S2629C"7Use the built-in formatting to construct this argument.(€Ë°£ùÿÿÿÿ8Î·­Áá1
+Y
+java:S2629L"7Use the built-in formatting to construct this argument.(Œ©ãôûÿÿÿÿ8Î·­Áá1
+T
+java:S2629["7Use the built-in formatting to construct this argument.(ìˆ÷²8Î·­Áá1
+T
+java:S2629o"7Use the built-in formatting to construct this argument.(Æñöß8Î·­Áá1
+T
+java:S2629x"7Use the built-in formatting to construct this argument.(ÌÒÒÇ8Î·­Áá1
+Y
+java:S2589X"7Remove this expression which always evaluates to "true"(ê¾¬±ùÿÿÿÿ8×·­Áá1
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+O
+java:S3416"9Update this logger to use "ReturnSalesDataDaoImpl.class".(˜ğÜ
+\
+java:S3457-"AFormat specifiers should be used instead of string concatenation.(å´ã¹şÿÿÿÿ
+c
+java:S34578"AFormat specifiers should be used instead of string concatenation.(ßÓü±şÿÿÿÿ8Ú·­Áá1
+c
+java:S3457C"AFormat specifiers should be used instead of string concatenation.(€Ë°£ùÿÿÿÿ8Û·­Áá1
+c
+java:S3457L"AFormat specifiers should be used instead of string concatenation.(Œ©ãôûÿÿÿÿ8Û·­Áá1
+`
+java:S1155X">Use isEmpty() to check whether the collection is empty or not.(ê¾¬±ùÿÿÿÿ8Ü·­Áá1
+^
+java:S3457["AFormat specifiers should be used instead of string concatenation.(ìˆ÷²8Ü·­Áá1
+\
+java:S3457k"AFormat specifiers should be used instead of string concatenation.(å´ã¹şÿÿÿÿ
+^
+java:S3457o"AFormat specifiers should be used instead of string concatenation.(Æñöß8İ·­Áá1
+^
+java:S3457x"AFormat specifiers should be used instead of string concatenation.(ÌÒÒÇ8Ş·­Áá1

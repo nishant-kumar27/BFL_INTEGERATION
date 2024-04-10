@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity3">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+<title>User Registration Notification email template</title>
+</head>
+<body>
+
+	<div class="container thumbnail">
+		<div th:if="${name}">
+			<div>
+				<h4>Dear <span th:text="${name}"></span>,<br />
+					You have been added as a user in LC POI Portal. Below are the login details.</h4>
+			</div>
+			<div>
+				<b>Portal can be accessed here: &nbsp;</b><a href="${applicationURL}"><span th:text="${applicationURL}"></span></a><br />
+			</div>
+			<div th:if="${userName}">
+				<b>User ID: &nbsp; </b><span th:text="${userName}"></span>
+			</div>
+			<div th:if="${password}">
+				<b>Temporary Password: &nbsp; </b><span th:text="${password}"></span>
+			</div>
+			<div>
+				<i>Note: Kindly change the password using "Change Password" option.</i><br />
+			</div>
+		</div>
+	</div>
+</body>
+</html>

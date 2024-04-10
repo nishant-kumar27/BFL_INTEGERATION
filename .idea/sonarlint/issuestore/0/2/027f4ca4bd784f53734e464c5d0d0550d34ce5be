@@ -1,0 +1,19 @@
+
+k	java:S116"QRename this field "ContNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÿ˜úÿÿÿÿ
+c	java:S116
+"NRename this field "UPC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û³ÀÊ
+m	java:S116"SRename this field "ItemName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¸âòüÿÿÿÿ
+n	java:S116"TRename this field "GroupCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­íç—øÿÿÿÿ
+j	java:S116"PRename this field "Style" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë Äøÿÿÿÿ
+e	java:S116"PRename this field "Color" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÜÊ·
+d	java:S116"ORename this field "Size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¡Ñµ
+l	java:S116"RRename this field "TrnDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø ÿÏÿÿÿÿÿ
+l	java:S116"RRename this field "TrnTime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¬½Ûøÿÿÿÿ
+h	java:S116"SRename this field "UserName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È”¸„
+k	java:S116"QRename this field "Upload" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áãìøÿÿÿÿ
+m	java:S116"SRename this field "StyleQty" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’„¬ÿÿÿÿÿ
+g	java:S116 "RRename this field "Remarks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆúï—
+j	java:S116""PRename this field "Brand" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ş‡Éûÿÿÿÿ
+k	java:S116$"QRename this field "Gender" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ Úøÿÿÿÿ
+k	java:S116&"QRename this field "Season" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¤“ÿÿÿÿÿ
+o	java:S116("URename this field "GenBarcode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎéÓüÿÿÿÿ

@@ -1,0 +1,47 @@
+
+o
+java:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(Øàý¨
+o
+java:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(„íÃÀ
+t
+java:S2293l"YReplace the type specification in this constructor call with the diamond operator ("<>").(…úŒ¦üÿÿÿÿ
+f	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øàý¨
+l	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚–úÿÿÿÿ
+D
+java:S5411"(Use a primitive boolean expression here.(ýü‡Ìûÿÿÿÿ
+X
+java:S6813,"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813/"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S68132"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S68135"BRemove this field injection and use constructor injection instead.(êæÄÞ
+]
+java:S6830'"GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã‘Ð
+i
+java:S37769"SRefactor this method to reduce its Cognitive Complexity from 104 to the 15 allowed.(“–ýþ
+Y
+java:S1155Z">Use isEmpty() to check whether the collection is empty or not.(¨¦çÉùÿÿÿÿ
+Y
+java:S1155_">Use isEmpty() to check whether the collection is empty or not.(¨š‚œúÿÿÿÿ
+S
+java:S1155b">Use isEmpty() to check whether the collection is empty or not.(Ò¤7
+Z
+java:S1155‹">Use isEmpty() to check whether the collection is empty or not.(¨¦çÉùÿÿÿÿ
+U
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ï‡’µ
+Z
+java:S1155™">Use isEmpty() to check whether the collection is empty or not.(–ÕÇ½ûÿÿÿÿ
+]
+java:S3457¹"AFormat specifiers should be used instead of string concatenation.( íåÔþÿÿÿÿ
+d
+java:S3986À"HMake sure that week Year "YYYY" is expected here instead of Year "yyyy".(Á¨åêúÿÿÿÿ
+Z
+java:S1155Ã">Use isEmpty() to check whether the collection is empty or not.(êîÑ¿ÿÿÿÿÿ
+D
+java:S1172ï"-Remove this unused method parameter "mapper".(Þ€“Å
+I
+java:S1172ü"-Remove this unused method parameter "mapper".(›Ù¾‹úÿÿÿÿ
+Ý
+java:S65419"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 120 to 64, Complexity from 42 to 14, Nesting Level from 6 to 2, Number of Variables from 27 to 6.(“–ýþ

@@ -1,0 +1,150 @@
+
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ…ö§
+p
+java:S2293ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(™Å‰È
+p
+java:S2293õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(®Œ·
+p
+java:S2293Ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(»Îñö
+p
+java:S2293ı"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙÚô±
+u
+java:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿¾ğàıÿÿÿÿ
+u
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(£ºÏ‚üÿÿÿÿ
+u
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(…­İÉùÿÿÿÿ
+p
+java:S2293ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(åÿÓ
+p
+java:S2293è"YReplace the type specification in this constructor call with the diamond operator ("<>").(™Ù®º
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾ŞÖ•ùÿÿÿÿ
+p
+java:S2293¨"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨éÅò
+p
+java:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(£ÙÉ
+p
+java:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢èã“
+p
+java:S2293Ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ…ö§
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(®Œ·
+p
+java:S2293Ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(»Îñö
+p
+java:S2293Ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙÚô±
+u
+java:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿¾ğàıÿÿÿÿ
+u
+java:S2293ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(£ºÏ‚üÿÿÿÿ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™Ù®º
+u
+java:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾ŞÖ•ùÿÿÿÿ
+p
+java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨éÅò
+u
+java:S2293á"YReplace the type specification in this constructor call with the diamond operator ("<>").(…­İÉùÿÿÿÿ
+K
+java:S1066ø"/Merge this if statement with the enclosing one.(È«æıÿÿÿÿ
+F
+java:S1066©"/Merge this if statement with the enclosing one.(è˜Á¬
+l	java:S117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åä²şÿÿÿÿ
+l	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚĞˆøÿÿÿÿ
+l	java:S117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â®ÒŞûÿÿÿÿ
+l	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆôé»ıÿÿÿÿ
+g	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôè²ó
+l	java:S117‚	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åä²şÿÿÿÿ
+l	java:S117Œ	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚĞˆøÿÿÿÿ
+l	java:S117‘	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â®ÒŞûÿÿÿÿ
+l	java:S117–	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆôé»ıÿÿÿÿ
+X
+java:S68131"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68134"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68137"BRemove this field injection and use constructor injection instead.(êæÄŞ
+ƒ
+java:S4144û"`Update this method so that its implementation is not identical to "setSupplierData" on line 595.(ó‹óíùÿÿÿÿ8ˆ„„Æá1
+Y
+java:S1155B">Use isEmpty() to check whether the collection is empty or not.(³Ÿ¾şÿÿÿÿ
+m
+java:S3776U"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(¡Ã˜êüÿÿÿÿ
+i
+java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 65 to the 15 allowed.(ô›Æà
+W	java:S125•"<This block of commented-out lines of code should be removed.(ÏÒíËøÿÿÿÿ
+W
+java:S3457˜"AFormat specifiers should be used instead of string concatenation.(‡ä©,
+Z
+java:S1155¦">Use isEmpty() to check whether the collection is empty or not.(Ú°åøÿÿÿÿ
+`
+java:S3358±"DExtract this nested ternary operation into an independent statement.(ú‡Èüøÿÿÿÿ
+R	java:S125Ä"<This block of commented-out lines of code should be removed.(Ê‚ˆô
+R	java:S125Ë"<This block of commented-out lines of code should be removed.(Ì‰€Í
+W	java:S125Ô"<This block of commented-out lines of code should be removed.(Ù¹¦“ùÿÿÿÿ
+R	java:S125ñ"<This block of commented-out lines of code should be removed.(åüÀâ
+U
+java:S1155÷">Use isEmpty() to check whether the collection is empty or not.(ëˆ—Ù
+Z
+java:S1155ˆ">Use isEmpty() to check whether the collection is empty or not.(®Ü÷Õşÿÿÿÿ
+Z
+java:S1155˜">Use isEmpty() to check whether the collection is empty or not.(®Ü÷Õşÿÿÿÿ
+Z
+java:S1155¨">Use isEmpty() to check whether the collection is empty or not.(®Ü÷Õşÿÿÿÿ
+W	java:S125¾"<This block of commented-out lines of code should be removed.(‘óïåøÿÿÿÿ
+]
+java:S3457Õ"AFormat specifiers should be used instead of string concatenation.(şÌ¾åùÿÿÿÿ
+R	java:S125Ü"<This block of commented-out lines of code should be removed.(Ë£³š
+R	java:S125á"<This block of commented-out lines of code should be removed.(ıµó™
+W	java:S125æ"<This block of commented-out lines of code should be removed.(øÆŠŠùÿÿÿÿ
+]
+java:S3457ú"AFormat specifiers should be used instead of string concatenation.(¢°…ãùÿÿÿÿ
+X
+java:S3457„"AFormat specifiers should be used instead of string concatenation.(€·Ã°
+i
+java:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ú£’õ
+W	java:S125ú"<This block of commented-out lines of code should be removed.(ÓŸ­Ïøÿÿÿÿ
+R	java:S125”"<This block of commented-out lines of code should be removed.(’‰Ÿè
+W
+java:S3457Æ"AFormat specifiers should be used instead of string concatenation.(ì¥m
+W	java:S125É"<This block of commented-out lines of code should be removed.(Ê•‹°üÿÿÿÿ
+R	java:S125Ú"<This block of commented-out lines of code should be removed.(Š©›¨
+R	java:S125å"<This block of commented-out lines of code should be removed.(Ê…ËÎ
+i
+java:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Â™é
+Q	java:S125º"<This block of commented-out lines of code should be removed.(şê„2
+Z
+java:S1155È">Use isEmpty() to check whether the collection is empty or not.(¨¦çÉùÿÿÿÿ
+U
+java:S1155Î">Use isEmpty() to check whether the collection is empty or not.(ï‡’µ
+W	java:S125Ï"<This block of commented-out lines of code should be removed.(ŠÉß³üÿÿÿÿ
+]
+java:S3457Ü"AFormat specifiers should be used instead of string concatenation.(ª¦¶¨øÿÿÿÿ
+Z
+java:S1155ü">Use isEmpty() to check whether the collection is empty or not.(¨¦çÉùÿÿÿÿ
+U
+java:S1155‚">Use isEmpty() to check whether the collection is empty or not.(ï‡’µ
+W	java:S125ª"<This block of commented-out lines of code should be removed.(Ê•‹°üÿÿÿÿ
+i
+java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(’ÕË·
+R	java:S125Í"<This block of commented-out lines of code should be removed.(öÏòİ
+`
+java:S3358Ü"DExtract this nested ternary operation into an independent statement.(Ššá‡şÿÿÿÿ
+R	java:S125ï"<This block of commented-out lines of code should be removed.(Ê‚ˆô
+R	java:S125ö"<This block of commented-out lines of code should be removed.(Ì‰€Í
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(Ù¹¦“ùÿÿÿÿ
+R	java:S125É"<This block of commented-out lines of code should be removed.(Ë£³š
+]
+java:S3457Û"AFormat specifiers should be used instead of string concatenation.(¢°…ãùÿÿÿÿ
+u
+java:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÑÏ¥ıøÿÿÿÿ8ì„„Æá1
+p
+java:S1128"SRemove this unused import 'com.bfl.gencode.merchhier.ItemMasterRequest.Assessment'.(º¼Õ‹8ÌéüÅá1
+m
+java:S1128$"KRemove this unused import 'com.bfl.gencode.merchhier.ItemMasterRequest.Ht'.(‡äÖÓıÿÿÿÿ8ÌéüÅá1
+l
+java:S1128+"ORemove this unused import 'com.bfl.gencode.merchhier.Supplier.SupplierRequest'.(ğÛéÃ8§äıÅá1
+Ş
+java:S6541‘"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 209 to 64, Complexity from 39 to 14, Nesting Level from 4 to 2, Number of Variables from 29 to 6.(ô›Æà

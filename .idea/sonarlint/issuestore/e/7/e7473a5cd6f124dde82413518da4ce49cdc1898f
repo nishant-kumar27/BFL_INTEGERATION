@@ -1,0 +1,34 @@
+
+j
+java:S1192O"TDefine a constant instead of duplicating this literal "yyyy-MM-dd HH:mm:ss" 3 times.(ä›É
+P
+java:S1141A"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+e	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ëq
+z
+java:S1488}"_Immediately return this expression instead of assigning it to the temporary variable "trnDate".(åé’­ùÿÿÿÿ
+R
+java:S2629r"7Use the built-in formatting to construct this argument.(äå‚Íûÿÿÿÿ
+X
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813,"BRemove this field injection and use constructor injection instead.(êæÄŞ
+]
+java:S6830"GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ÂÀç
+h
+java:S37762"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(“–ış
+Y
+java:S11558">Use isEmpty() to check whether the collection is empty or not.(–şµåşÿÿÿÿ
+\
+java:S3457D"AFormat specifiers should be used instead of string concatenation.(ÜÑ…Éûÿÿÿÿ
+W
+java:S3457d"AFormat specifiers should be used instead of string concatenation.(ò¦Ó
+\
+java:S3457r"AFormat specifiers should be used instead of string concatenation.(äå‚Íûÿÿÿÿ
+W
+java:S3457t"AFormat specifiers should be used instead of string concatenation.(ÿ™¡Ô

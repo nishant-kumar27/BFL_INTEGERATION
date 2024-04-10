@@ -1,0 +1,82 @@
+
+n
+java:S2293c"YReplace the type specification in this constructor call with the diamond operator ("<>").(ı©’(
+u
+java:S2293²"YReplace the type specification in this constructor call with the diamond operator ("<>").(–©‘íüÿÿÿÿ
+u
+java:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÓƒîÄùÿÿÿÿ
+b
+java:S1192Û"FDefine a constant instead of duplicating this literal "QATAR" 4 times.(ÏÀšÿÿÿÿÿ
+f
+java:S1192ö"JDefine a constant instead of duplicating this literal "BFLKUWAIT" 3 times.(È«Èıÿÿÿÿ
+^
+java:S1192ê"GDefine a constant instead of duplicating this literal "HODATA" 3 times.(ÂÓÖ—
+e
+java:S1192‚"IDefine a constant instead of duplicating this literal "BFLQATAR" 3 times.(®ãƒ÷şÿÿÿÿ
+c
+java:S1192ğ"GDefine a constant instead of duplicating this literal "BFLKSA" 4 times.(ìÌ€Šÿÿÿÿÿ
+^
+java:S1192÷"GDefine a constant instead of duplicating this literal "KUWAIT" 3 times.(ğÄôÓ
+g
+java:S1192ˆ"KDefine a constant instead of duplicating this literal "BFLBAHRAIN" 3 times.(Ìøıâÿÿÿÿÿ
+_
+java:S1192İ"HDefine a constant instead of duplicating this literal "BAHRAIN" 4 times.(ğ’ñ³
+s	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚–úÿÿÿÿ8©Ş¬ã1
+z
+java:S2629Á"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Û»‚°8´Ş¬ã1
+
+java:S2629å"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(“ÛÄòÿÿÿÿÿ8¶Ş¬ã1
+X
+java:S6813+"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813."BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68131"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68134"BRemove this field injection and use constructor injection instead.(êæÄŞ
+]
+java:S6830&"GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¯Ë
+h
+java:S3776:"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(“–ış
+[
+java:S1854c"?Remove this useless assignment to local variable "pricingData".(ı©’(8¶ñ¬ã1
+V	java:S1257"<This block of commented-out lines of code should be removed.(İÉÁÉüÿÿÿÿ
+Q	java:S125P"<This block of commented-out lines of code should be removed.(¢ÂÕş
+Y
+java:S1155W">Use isEmpty() to check whether the collection is empty or not.(¨¦çÉùÿÿÿÿ
+Y
+java:S1155]">Use isEmpty() to check whether the collection is empty or not.(³Ÿ¾şÿÿÿÿ
+X	java:S125h"<This block of commented-out lines of code should be removed.(áı¶Å8ÿñ¬ã1
+]	java:S125w"<This block of commented-out lines of code should be removed.(ôÇè„ùÿÿÿÿ8ò¬ã1
+c
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Äó·‹ÿÿÿÿÿ8‚ò¬ã1
+k
+java:S3986†"HMake sure that week Year "YYYY" is expected here instead of Year "yyyy".(Á¨åêúÿÿÿÿ8†ò¬ã1
+a
+java:S1155‰">Use isEmpty() to check whether the collection is empty or not.(êîÑ¿ÿÿÿÿÿ8ˆò¬ã1
+K
+java:S1172¦"-Remove this unused method parameter "mapper".(·‰ÉÌ8ò¬ã1
+^	java:S125¶"<This block of commented-out lines of code should be removed.(Øƒ—ûÿÿÿÿ8’ò¬ã1
+j
+java:S1871»"MThis branch's code block is the same as the block for the branch on line 184.(„úÏ]8“ò¬ã1
+_
+java:S3457Á"AFormat specifiers should be used instead of string concatenation.(Û»‚°8•ò¬ã1
+p
+java:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¾Ì©•8–ò¬ã1
+N
+java:S1172ä"+Remove this unused method parameter "item".(¨¬Şúÿÿÿÿ8 ò¬ã1
+o
+java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ıÉÏI8«ò¬ã1
+Y	java:S125“"<This block of commented-out lines of code should be removed.(ÃŞÆ†8¯ò¬ã1
+d
+java:S3457å"AFormat specifiers should be used instead of string concatenation.(“ÛÄòÿÿÿÿÿ8Èò¬ã1
+f
+java:S3986í"HMake sure that week Year "YYYY" is expected here instead of Year "yyyy".(î£’û8Ğò¬ã1
+^	java:S125ï"<This block of commented-out lines of code should be removed.(¨”·òüÿÿÿÿ8Ôò¬ã1
+d
+java:S3457ó"AFormat specifiers should be used instead of string concatenation.(Ğ®¬¨ıÿÿÿÿ8Õò¬ã1
+Y	java:S125õ"<This block of commented-out lines of code should be removed.(ª´Š£8×ò¬ã1
+k
+java:S3986Œ"HMake sure that week Year "YYYY" is expected here instead of Year "yyyy".(ìÎˆ—ûÿÿÿÿ8åò¬ã1
+â
+java:S6541‘"ÄA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 75 to 64, Complexity from 26 to 14, Nesting Level from 4 to 2, Number of Variables from 7 to 6.(ıÉÏI8êò¬ã1

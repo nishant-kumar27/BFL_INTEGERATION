@@ -1,0 +1,68 @@
+
+v
+java:S2293P"YReplace the type specification in this constructor call with the diamond operator ("<>").(Øàý¨8“ÎÑ©å1
+v
+java:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(„íÃÀ8”ÎÑ©å1
+{
+java:S2293i"YReplace the type specification in this constructor call with the diamond operator ("<>").(…úŒ¦üÿÿÿÿ8”ÎÑ©å1
+v
+java:S2293~"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯©†Ý8”ÎÑ©å1
+m	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øàý¨8–ÎÑ©å1
+s	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚–úÿÿÿÿ8—ÎÑ©å1
+n	java:S117Ý"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®òÃš8—ÎÑ©å1
+E
+java:S5411u"(Use a primitive boolean expression here.(©ŸË®8¢ÎÑ©å1
+K
+java:S5411—"(Use a primitive boolean expression here.(ýü‡Ìûÿÿÿÿ8¢ÎÑ©å1
+K
+java:S5411Ÿ"(Use a primitive boolean expression here.(ýü‡Ìûÿÿÿÿ8¢ÎÑ©å1
+d
+java:S2259Ì"FA "NullPointerException" could be thrown; "itemCode" is nullable here.(×¼Ó„8Ï×Ñ©å1
+o
+java:S2259Ã"LA "NullPointerException" could be thrown; "upcBarcodeData" is nullable here.(ÖÅ¼Ÿùÿÿÿÿ8Î×Ñ©å1
+o
+java:S2259Ç"LA "NullPointerException" could be thrown; "upcBarcodeData" is nullable here.(ÖÅ¼Ÿùÿÿÿÿ8Ï×Ñ©å1
+_
+java:S6813,"BRemove this field injection and use constructor injection instead.(êæÄÞ8Ô×Ñ©å1
+_
+java:S6813/"BRemove this field injection and use constructor injection instead.(êæÄÞ8Ô×Ñ©å1
+_
+java:S68132"BRemove this field injection and use constructor injection instead.(êæÄÞ8Ô×Ñ©å1
+_
+java:S68135"BRemove this field injection and use constructor injection instead.(êæÄÞ8Ô×Ñ©å1
+d
+java:S6830'"GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÄ®ã8ß×Ñ©å1
+p
+java:S37769"SRefactor this method to reduce its Cognitive Complexity from 112 to the 15 allowed.(“–ýþ8ç×Ñ©å1
+`
+java:S1155W">Use isEmpty() to check whether the collection is empty or not.(¨¦çÉùÿÿÿÿ8ÆØÑ©å1
+`
+java:S1155\">Use isEmpty() to check whether the collection is empty or not.(¨š‚œúÿÿÿÿ8ÉØÑ©å1
+Z
+java:S1155_">Use isEmpty() to check whether the collection is empty or not.(Ò¤78ÍØÑ©å1
+a
+java:S1155‰">Use isEmpty() to check whether the collection is empty or not.(¨¦çÉùÿÿÿÿ8ÝØÑ©å1
+\
+java:S1155Ž">Use isEmpty() to check whether the collection is empty or not.(ï‡’µ8áØÑ©å1
+a
+java:S1155›">Use isEmpty() to check whether the collection is empty or not.(–ÕÇ½ûÿÿÿÿ8æØÑ©å1
+Y	java:S125£"<This block of commented-out lines of code should be removed.(©šÃ¯8ìõÊ«å1
+d
+java:S3457¸"AFormat specifiers should be used instead of string concatenation.( íåÔþÿÿÿÿ8ìØÑ©å1
+k
+java:S3986Ì"HMake sure that week Year "YYYY" is expected here instead of Year "yyyy".(Á¨åêúÿÿÿÿ8óØÑ©å1
+a
+java:S1155Ï">Use isEmpty() to check whether the collection is empty or not.(êîÑ¿ÿÿÿÿÿ8õØÑ©å1
+P
+java:S1172„"-Remove this unused method parameter "mapper".(›Ù¾‹úÿÿÿÿ8úØÑ©å1
+Y	java:S125î"<This block of commented-out lines of code should be removed.(ÐÄ€™8ûØÑ©å1
+K
+java:S1172"-Remove this unused method parameter "mapper".(¤«–û8þØÑ©å1
+u
+java:S3776º"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ü³¹­ûÿÿÿÿ8†ÙÑ©å1
+p
+java:S3776Ý"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(®òÃš8ŒÙÑ©å1
+]
+java:S1144¾":Remove this unused private "updateContainerStatus" method.(ä¼Û«þÿÿÿÿ8’öÊ«å1
+ä
+java:S65419"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 123 to 64, Complexity from 42 to 14, Nesting Level from 7 to 2, Number of Variables from 29 to 6.(“–ýþ8¢ÙÑ©å1

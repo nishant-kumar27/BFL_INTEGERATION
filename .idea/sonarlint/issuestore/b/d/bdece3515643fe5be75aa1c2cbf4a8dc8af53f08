@@ -1,0 +1,19 @@
+
+X
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813,"BRemove this field injection and use constructor injection instead.(êæÄŞ
+b
+java:S6830"GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åã£Íúÿÿÿÿ
+h
+java:S37762"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(“–ış
+T
+java:S11558">Use isEmpty() to check whether the collection is empty or not.(¢úëß
+W
+java:S3457U"AFormat specifiers should be used instead of string concatenation.(Æè

@@ -1,0 +1,12 @@
+
+`	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(…ùë¹üÿÿÿÿ
+`	java:S112I"FDefine and throw a dedicated exception instead of using a generic one.(…ùë¹üÿÿÿÿ
+¯
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ïÉè—
+r
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Éû‡õùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ô×Äûÿÿÿÿ
+@	java:S1065"+Replace this use of System.out by a logger.(ô¢çı
+E
+java:S2093F"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+J	java:S108^")Either remove or fill this block of code.(öé”şÿÿÿÿ8î¶á„ä1

@@ -1,0 +1,11 @@
+
+h	java:S116"SRename this field "Category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í²î§
+d	java:S116"ORename this field "Dept" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤˜…‡
+N
+java:S1068"2Remove this unused "hierarchyLevel" private field.(·óâ.8¯…ä1
+Q
+java:S1068"4Remove this unused "uniqueSubclassId" private field.(ÂºÏØ8ÓÊ¯…ä1
+S
+java:S1068"1Remove this unused "uniqueClassId" private field.(‰Ù¤µûÿÿÿÿ8Üã¯…ä1
+T
+java:S1068"2Remove this unused "cacheTimestamp" private field.(¦Ç¹íúÿÿÿÿ8ˆº°…ä1

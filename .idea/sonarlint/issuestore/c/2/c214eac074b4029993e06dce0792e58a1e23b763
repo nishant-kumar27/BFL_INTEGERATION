@@ -1,0 +1,10 @@
+
+f	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÉ„é
+k	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïà÷øÿÿÿÿ
+g	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¸Ùá
+l	java:S117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰±Ññıÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßı›¥
+R	java:S107­"<Method has 8 parameters, which is greater than 7 authorized.(“¸Ùá
+m
+java:S1128
+"PRemove this unused import 'com.bfl.gencode.merchhier.upcbarcodes.response.Item'.(‹ß‚Å8œÑºÃá1

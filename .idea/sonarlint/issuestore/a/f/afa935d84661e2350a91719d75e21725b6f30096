@@ -1,0 +1,13 @@
+
+t
+java:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ½¬ðùÿÿÿÿ
+X
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813,"BRemove this field injection and use constructor injection instead.(êæÄÞ
+W
+java:S3457R"AFormat specifiers should be used instead of string concatenation.(þ×²á

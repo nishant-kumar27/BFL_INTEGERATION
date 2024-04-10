@@ -1,0 +1,122 @@
+package com.bfl.dao;
+
+import java.io.IOException;
+import java.util.List;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.jdbc.core.BeanPropertyRowMapper;
+import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
+import org.springframework.stereotype.Repository;
+
+import com.bfl.ConfigProperties;
+import com.bfl.dto.InvoiceVatItemDTO;
+import com.bfl.dto.ItemMasterDTO;
+import com.bfl.dto.PaymentsDto;
+import com.bfl.dto.RTLogConfigDTO;
+import com.bfl.dto.SalesDetailsDto;
+import com.bfl.dto.SalesHeaderDto;
+
+@Repository
+public class ReturnSalesDataDaoImpl implements IReturnSalesDataDao{
+
+	private static final Logger logger = LoggerFactory.getLogger(SalesDataDaoImpl.class); 
+
+	@Autowired
+	@Qualifier("appJdbcTemplate")
+	private NamedParameterJdbcTemplate appJdbcTemplate;
+
+	@Override
+	public List<SalesHeaderDto> getReturnSalesData(String fromDate) throws IOException {
+		logger.info("Reading records from ReturnSalesHeader table.");
+		String Count =  ConfigProperties.getInstance().getConfigValue("trn.count");
+		String TRAN_FLAG_DB = "";
+		try {
+			TRAN_FLAG_DB = ConfigProperties.getInstance().getConfigValue("TRAN_FLAG_DB");
+			if(null != TRAN_FLAG_DB && !TRAN_FLAG_DB.isEmpty()) {
+				TRAN_FLAG_DB = TRAN_FLAG_DB + "..";
+			}
+		} catch (IOException e) {
+			logger.error("Error occured while getting the Tran Flag DB details " + e);
+		}
+		String sql = "Select top " + Count + " RSH.SReturnNo, RSH.SReturnDate, RSH.TrnType, RSH.DebitCode, RSH.CreditCode, RSH.RefType, RSH.InvoiceDONo, "
+					+ " RSH.CustCode, RSH.CostCode, RSH.GrossAmount, RSH.TotalDiscount, RSH.NetAmount, RSH.FCCode, RSH.FCRate, RSH.UserId, "
+					+ " RSH.ApprovedBy, RSH.PreparedBy, RSH.EntryMode, RSH.RevMarginCode, RSH.Remarks, RSH.MobileNo, RSH.Reason, RSH.LocCode, "
+					+ " RSH.EmpName, RSH.CreditNoteNo, RSH.CreditInvNo, RSH.CreditExpiryDt, RSH.TrnDate, RSH.VoidAppCode, RSH.RepCode "
+					+ " FROM SReturnsHeader RSH WHERE NOT EXISTS (SELECT BFL_INVOICE_NO FROM " + TRAN_FLAG_DB + "BFL_TRANS_EXP ES "
+					+ " WHERE ES.Exported='Y' and RSH.SReturnNo = ES.BFL_INVOICE_NO and RSH.LocCode=ES.BFL_REG_NO and RSH.CostCode = ES.BFL_STORE_ID) "
+					+ " and RSH.SReturnDate >= '" + fromDate + "' "
+					+ " order by RSH.trndate ASC";
+		List<SalesHeaderDto> records = appJdbcTemplate.query(sql, BeanPropertyRowMapper.newInstance(SalesHeaderDto.class));
+		logger.info("ReturnSalesHeader records: " +records);
+		return records;
+	}
+	
+	@Override
+	public List<SalesDetailsDto> getReturnSalesDetailsData(String invoiceNo) {
+		logger.info("Reading records from ReturnSalesDetails table.");
+		String sql = "select RSD.SReturnNo ,RSD.ItemCode ,RSD.Quantity ,RSD.Rate ,RSD.Discount ,RSD.UnitCode ,RSD.BatchNo"
+				+ " ,RSD.BasicQty ,RSD.BasicRate from SReturnsDetail RSD where RSD.SReturnNo= '" + invoiceNo + "'";
+		logger.info("Reading records from ReturnSalesDetails table.");
+		List<SalesDetailsDto> records = appJdbcTemplate.query(sql, BeanPropertyRowMapper.newInstance(SalesDetailsDto.class));
+		logger.info("ReturnSalesDetails records: " +records);
+		return records;
+	}
+
+	@Override
+	public List<PaymentsDto> getPaymentsData(String invoiceNo) {
+		String sql = "Select PT.InvoiceNo,PT.PaymentType,PT.RefNo,PT.Amount from Payments PT where Pt.InvoiceNo = '" + invoiceNo +"'";
+		logger.info("Reading records from payments table.");
+		List<PaymentsDto> records = appJdbcTemplate.query(sql, BeanPropertyRowMapper.newInstance(PaymentsDto.class));
+		logger.info("payment records: " +records);
+		return records;
+	}
+
+	@Override
+	public ItemMasterDTO getItemMasterDate(String itemCode) {
+		logger.info("Reading records from item master table.");
+		String sql = "Select IM.ItemCode,IM.Description,IM.ShortName,IM.UnitCode,IM.GroupCode,IM.CatCode,IM.MinLevel,IM.ReorderLevel,IM.StockInHand,IM.OnOrder,IM.CostRate,"
+				+ " IM.OpeningStock,IM.OpCostRate,IM.Batch,IM.OpeningDate,IM.CostPriceUpdated,IM.Remarks,IM.costcode,IM.ItemType,IM.ArabicItem,IM.Transfered,IM.ToPrint from"
+				+ " ItemMaster IM where itemcode= '" + itemCode + "'";
+		List<ItemMasterDTO> itemRecords = appJdbcTemplate.query(sql, BeanPropertyRowMapper.newInstance(ItemMasterDTO.class));
+		ItemMasterDTO records = null;
+		if(null != itemRecords && itemRecords.size() > 0) {
+			records = itemRecords.get(0);
+		}
+		logger.info("Reading Latest item records from itemMaster: " +records);
+		return records;
+	}	
+
+
+
+	@Override
+	public List<RTLogConfigDTO> getDataFromRtlogConfig() {
+		logger.info("Reading records from BFL_RTLOG_CONFIG table.");
+		String TRAN_FLAG_DB = "";
+		try {
+			TRAN_FLAG_DB = ConfigProperties.getInstance().getConfigValue("TRAN_FLAG_DB");
+			if(null != TRAN_FLAG_DB && !TRAN_FLAG_DB.isEmpty()) {
+				TRAN_FLAG_DB = TRAN_FLAG_DB + "..";
+			}
+		} catch (IOException e) {
+			logger.error("Error occured while getting the Tran Flag DB details " + e);
+		}
+		String sql = "select RC.RECORD_TYPE,RC.BFL_VALUES,RC.RESA_VALUES,RC.RESA_CODES from " + TRAN_FLAG_DB + " BFL_RTLOG_CONFIG RC";
+		List<RTLogConfigDTO> records = appJdbcTemplate.query(sql, BeanPropertyRowMapper.newInstance(RTLogConfigDTO.class));
+		logger.info("Get Records from: BFL_RTLOG_CONFIG " +records);
+		return records;
+	}
+
+	@Override
+	public List<InvoiceVatItemDTO> getVatItemDetails(String invoiceNo, String itemCode) {
+		logger.info("Reading records from InvoiceVatItem table.");
+		String sql = "select Top 1 IVD.invoiceno,IVD.Itemcode,IVD.Discount,IVD.VatPer,IVD.VatAmt,IVD.VatCode,IVD.MRow,IVD.Loyalty from InvoiceVatItems IVD where invoiceno ='" + invoiceNo + "' and itemcode= '" + itemCode +"'";
+		List<InvoiceVatItemDTO> records = appJdbcTemplate.query(sql, BeanPropertyRowMapper.newInstance(InvoiceVatItemDTO.class));
+		logger.info("Invoice Vat records: " +records);
+		return records;
+	}
+
+
+}

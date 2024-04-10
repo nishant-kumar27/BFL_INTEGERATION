@@ -1,0 +1,24 @@
+
+k	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÁÓÿùÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞ
+`
+java:S1155)">Use isEmpty() to check whether the collection is empty or not.(ŸûÆşÿÿÿÿ8ÆîÅá1
+\
+java:S34578"AFormat specifiers should be used instead of string concatenation.(“šö¢øÿÿÿÿ
+H
+java:S11689"+Return an empty collection instead of null.(¥¹ï8 ÆîÅá1
+`
+java:S1155A">Use isEmpty() to check whether the collection is empty or not.(òÆˆşÿÿÿÿ8¢ÆîÅá1
+n
+java:S2139l"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾
+\
+java:S3457m"AFormat specifiers should be used instead of string concatenation.(Ü‘ÄÄşÿÿÿÿ
+n
+java:S2139z"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾
+\
+java:S3457{"AFormat specifiers should be used instead of string concatenation.(ÌŞˆ´şÿÿÿÿ
+X
+java:S3457“"AFormat specifiers should be used instead of string concatenation.(‡²ïÅ

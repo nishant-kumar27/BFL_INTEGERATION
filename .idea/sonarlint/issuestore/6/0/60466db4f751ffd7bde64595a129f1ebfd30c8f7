@@ -1,0 +1,41 @@
+
+o
+java:S2293c"YReplace the type specification in this constructor call with the diamond operator ("<>").(º—Êó
+T
+java:S2629~"7Use the built-in formatting to construct this argument.(»ºÀ8éÑ†ä1
+X
+java:S6813,"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813/"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68132"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68135"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68138"BRemove this field injection and use constructor injection instead.(êæÄŞ
+]
+java:S6830'"GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÒÜ
+h
+java:S3776<"RRefactor this method to reduce its Cognitive Complexity from 69 to the 15 allowed.(“–ış
+Z
+java:S1854c"DRemove this useless assignment to local variable "missingResaItems".(º—Êó
+V	java:S125L"<This block of commented-out lines of code should be removed.(ÁáÅÿÿÿÿÿ
+`
+java:S1155X">Use isEmpty() to check whether the collection is empty or not.(Ö¦“¹üÿÿÿÿ8 ’Ñ†ä1
+[
+java:S1155]">Use isEmpty() to check whether the collection is empty or not.(ï‡’µ8¢’Ñ†ä1
+V	java:S125b"<This block of commented-out lines of code should be removed.(Úœ€†şÿÿÿÿ
+`
+java:S1155l">Use isEmpty() to check whether the collection is empty or not.(üÊÎúÿÿÿÿ8¤’Ñ†ä1
+[
+java:S1155u">Use isEmpty() to check whether the collection is empty or not.(ñ§†Š8¦’Ñ†ä1
+Z
+java:S1155|">Use isEmpty() to check whether the collection is empty or not.(ó´£$8¦’Ñ†ä1
+^
+java:S3457~"AFormat specifiers should be used instead of string concatenation.(»ºÀ8¦’Ñ†ä1
+W
+java:S3457"AFormat specifiers should be used instead of string concatenation.(í¬Y
+D
+java:S1172”"-Remove this unused method parameter "mapper".(õŞŸ¬
+Ü
+java:S6541<"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 82 to 64, Complexity from 28 to 14, Nesting Level from 9 to 2, Number of Variables from 25 to 6.(“–ış

@@ -1,0 +1,14 @@
+
+[	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(ÑÃä
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+\
+java:S3457."AFormat specifiers should be used instead of string concatenation.( íåÔşÿÿÿÿ
+C
+java:S11724"-Remove this unused method parameter "mapper".(ÑÃä
+Œ
+java:S1130="qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(¹ØïØúÿÿÿÿ
